@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.3.1 - 2026-07-31
+
+- Fixed Windows-built XPI archives using backslashes in ZIP entry paths.
+- Ensured localized resources always use WebExtension-compatible `/` paths.
+
 ## 1.3.0 - 2026-07-31
 
 - Added automatic localization based on Thunderbird's interface language.
