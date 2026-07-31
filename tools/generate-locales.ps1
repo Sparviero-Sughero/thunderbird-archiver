@@ -1,5 +1,6 @@
 param(
-  [string]$ExtensionPath = (Join-Path $PSScriptRoot '..\src')
+  [string]$ExtensionPath = (Join-Path $PSScriptRoot '..\src'),
+  [switch]$OnlyMissing
 )
 
 $ErrorActionPreference = 'Stop'
@@ -27,19 +28,34 @@ $locales = [ordered]@{
   'vi' = 'vi'; 'cy' = 'cy'
 }
 
-$protectedMessages = foreach ($key in $keys) {
-  $source.$key.message -replace '\$(\d+)', '__AA_PLACEHOLDER_$1__'
-}
-$batch = $protectedMessages -join "`n$separator`n"
-
 foreach ($entry in $locales.GetEnumerator()) {
   $locale = $entry.Key
   $target = $entry.Value
   $outputDirectory = Join-Path $ExtensionPath "_locales\$locale"
   $outputPath = Join-Path $outputDirectory 'messages.json'
+  $existingCatalog = if (Test-Path -LiteralPath $outputPath) {
+    Get-Content -Raw -LiteralPath $outputPath | ConvertFrom-Json
+  } else {
+    $null
+  }
+  $translationKeys = if ($OnlyMissing -and $existingCatalog) {
+    @($keys | Where-Object { $_ -notin @($existingCatalog.PSObject.Properties.Name) })
+  } else {
+    $keys
+  }
+
+  if ($translationKeys.Count -eq 0) {
+    Write-Output "Up to date: $locale"
+    continue
+  }
+
+  $protectedMessages = @(foreach ($key in $translationKeys) {
+    $source.$key.message -replace '\$(\d+)', '__AA_PLACEHOLDER_$1__'
+  })
+  $batch = $protectedMessages -join "`n$separator`n"
 
   if ($target -eq 'en') {
-    $translatedMessages = $protectedMessages
+    $translatedMessages = @($protectedMessages)
   } else {
     $uri = 'https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&dt=t&tl=' +
       [uri]::EscapeDataString($target) + '&q=' + [uri]::EscapeDataString($batch)
@@ -53,7 +69,7 @@ foreach ($entry in $locales.GetEnumerator()) {
     }
   }
 
-  if ($translatedMessages.Count -ne $keys.Count) {
+  if ($translatedMessages.Count -ne $translationKeys.Count) {
     Write-Warning "$locale changed the batch separator; retrying message by message."
     $translatedMessages = @(
       foreach ($sourceMessage in $protectedMessages) {
@@ -74,10 +90,22 @@ foreach ($entry in $locales.GetEnumerator()) {
     )
   }
 
+  $translatedValues = @{}
+  for ($index = 0; $index -lt $translationKeys.Count; $index++) {
+    $translatedValues[$translationKeys[$index]] =
+      $translatedMessages[$index].Trim() -replace '__AA_PLACEHOLDER_(\d+)__', '$$$1'
+  }
+
   $catalog = [ordered]@{}
-  for ($index = 0; $index -lt $keys.Count; $index++) {
-    $value = $translatedMessages[$index].Trim() -replace '__AA_PLACEHOLDER_(\d+)__', '$$$1'
-    $catalog[$keys[$index]] = [ordered]@{ message = $value }
+  foreach ($key in $keys) {
+    $value = if ($translatedValues.ContainsKey($key)) {
+      $translatedValues[$key]
+    } elseif ($existingCatalog -and $existingCatalog.PSObject.Properties.Name -contains $key) {
+      $existingCatalog.$key.message
+    } else {
+      $source.$key.message
+    }
+    $catalog[$key] = [ordered]@{ message = $value }
   }
 
   New-Item -ItemType Directory -Force -Path $outputDirectory | Out-Null

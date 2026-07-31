@@ -38,6 +38,9 @@
     "accountsLegend":  {
                            "message":  "Ընտրեք հաշիվներ"
                        },
+    "allAccounts":  {
+                        "message":  "All accounts"
+                    },
     "loadingAccounts":  {
                             "message":  "Հաշիվների բեռնում"
                         },

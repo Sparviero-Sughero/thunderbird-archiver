@@ -38,6 +38,9 @@
     "accountsLegend":  {
                            "message":  "Pasirinkite paskyras"
                        },
+    "allAccounts":  {
+                        "message":  "All accounts"
+                    },
     "loadingAccounts":  {
                             "message":  "Įkeliamos sąskaitos"
                         },

@@ -38,6 +38,9 @@
     "accountsLegend":  {
                            "message":  "Velg kontoer"
                        },
+    "allAccounts":  {
+                        "message":  "All accounts"
+                    },
     "loadingAccounts":  {
                             "message":  "Laster inn kontoer..."
                         },

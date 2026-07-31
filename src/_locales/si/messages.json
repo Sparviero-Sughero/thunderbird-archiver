@@ -38,6 +38,9 @@
     "accountsLegend":  {
                            "message":  "ගිණුම් තෝරන්න"
                        },
+    "allAccounts":  {
+                        "message":  "All accounts"
+                    },
     "loadingAccounts":  {
                             "message":  "ගිණුම් පූරණය කරමින්â€¦"
                         },

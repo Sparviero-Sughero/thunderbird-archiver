@@ -38,6 +38,9 @@
     "accountsLegend":  {
                            "message":  "Select accounts"
                        },
+    "allAccounts":  {
+                        "message":  "All accounts"
+                    },
     "loadingAccounts":  {
                             "message":  "Loading accountsâ€¦"
                         },

@@ -38,6 +38,9 @@
     "accountsLegend":  {
                            "message":  "Veldu reikninga"
                        },
+    "allAccounts":  {
+                        "message":  "All accounts"
+                    },
     "loadingAccounts":  {
                             "message":  "Hleður reikningumâ€¦"
                         },

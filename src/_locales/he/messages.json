@@ -38,6 +38,9 @@
     "accountsLegend":  {
                            "message":  "בחר חשבונות"
                        },
+    "allAccounts":  {
+                        "message":  "All accounts"
+                    },
     "loadingAccounts":  {
                             "message":  "טוען חשבונות..."
                         },

@@ -38,6 +38,9 @@
     "accountsLegend":  {
                            "message":  "Zgjidhni llogaritë"
                        },
+    "allAccounts":  {
+                        "message":  "All accounts"
+                    },
     "loadingAccounts":  {
                             "message":  "Ngarkimi i llogarive -"
                         },

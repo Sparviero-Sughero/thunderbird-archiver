@@ -38,6 +38,9 @@
     "accountsLegend":  {
                            "message":  "Vælg konti"
                        },
+    "allAccounts":  {
+                        "message":  "All accounts"
+                    },
     "loadingAccounts":  {
                             "message":  "Indlæser kontiâ€¦"
                         },

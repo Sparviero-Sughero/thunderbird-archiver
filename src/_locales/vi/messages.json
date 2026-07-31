@@ -38,6 +38,9 @@
     "accountsLegend":  {
                            "message":  "Chọn tài khoản"
                        },
+    "allAccounts":  {
+                        "message":  "All accounts"
+                    },
     "loadingAccounts":  {
                             "message":  "Đang tải tài khoảnâ€¦"
                         },

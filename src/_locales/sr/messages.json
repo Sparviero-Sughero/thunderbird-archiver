@@ -38,6 +38,9 @@
     "accountsLegend":  {
                            "message":  "Изаберите налоге"
                        },
+    "allAccounts":  {
+                        "message":  "All accounts"
+                    },
     "loadingAccounts":  {
                             "message":  "Учитавање налога..."
                         },

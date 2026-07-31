@@ -38,6 +38,9 @@
     "accountsLegend":  {
                            "message":  "Tagh cunntasan"
                        },
+    "allAccounts":  {
+                        "message":  "All accounts"
+                    },
     "loadingAccounts":  {
                             "message":  "A luchdadh a-nuas cunntair"
                         },

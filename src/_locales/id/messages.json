@@ -38,6 +38,9 @@
     "accountsLegend":  {
                            "message":  "Pilih akun"
                        },
+    "allAccounts":  {
+                        "message":  "All accounts"
+                    },
     "loadingAccounts":  {
                             "message":  "Memuat akunâ€¦"
                         },

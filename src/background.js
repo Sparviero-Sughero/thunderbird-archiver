@@ -2,6 +2,7 @@ const DEFAULT_SETTINGS = {
   agePreset: "6months",
   customDays: 180,
   selectedAccountIds: [],
+  selectAllAccounts: false,
   deleteOldSpamAndTrash: false,
 };
 
@@ -108,7 +109,10 @@ async function runArchive() {
     const selectedIds = new Set(settings.selectedAccountIds);
     const cutoff = new Date(Date.now() - daysForSettings(settings) * 86400000);
     const accounts = await messenger.accounts.list(true);
-    const selectedAccounts = accounts.filter(account => selectedIds.has(account.id));
+    const usableAccounts = accounts.filter(account => !["nntp", "rss"].includes(account.type));
+    const selectedAccounts = settings.selectAllAccounts
+      ? usableAccounts
+      : usableAccounts.filter(account => selectedIds.has(account.id));
     let archived = 0;
     let deleted = 0;
     const errors = [];

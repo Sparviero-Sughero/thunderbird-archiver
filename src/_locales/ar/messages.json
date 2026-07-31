@@ -38,6 +38,9 @@
     "accountsLegend":  {
                            "message":  "حدد الحسابات"
                        },
+    "allAccounts":  {
+                        "message":  "All accounts"
+                    },
     "loadingAccounts":  {
                             "message":  "جاري تحميل الحسابات..."
                         },

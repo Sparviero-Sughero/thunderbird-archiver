@@ -38,6 +38,9 @@
     "accountsLegend":  {
                            "message":  "Kies rekeninge"
                        },
+    "allAccounts":  {
+                        "message":  "All accounts"
+                    },
     "loadingAccounts":  {
                             "message":  "Laai rekeninge…"
                         },

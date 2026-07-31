@@ -38,6 +38,9 @@
     "accountsLegend":  {
                            "message":  "حساب ها را انتخاب کنید"
                        },
+    "allAccounts":  {
+                        "message":  "All accounts"
+                    },
     "loadingAccounts":  {
                             "message":  "بارگیری حساب ها"
                         },

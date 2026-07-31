@@ -38,6 +38,9 @@
     "accountsLegend":  {
                            "message":  "Hisoblarni tanlang"
                        },
+    "allAccounts":  {
+                        "message":  "All accounts"
+                    },
     "loadingAccounts":  {
                             "message":  "Hisoblar yuklanmoqdaâ€¦"
                         },

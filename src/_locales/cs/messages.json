@@ -38,6 +38,9 @@
     "accountsLegend":  {
                            "message":  "Vyberte účty"
                        },
+    "allAccounts":  {
+                        "message":  "All accounts"
+                    },
     "loadingAccounts":  {
                             "message":  "Načítání účtů…"
                         },

@@ -12,6 +12,7 @@
   "customValue": { "message": "Valore personalizzato" },
   "daysUnit": { "message": "giorni" },
   "accountsLegend": { "message": "Seleziona gli account" },
+  "allAccounts": { "message": "Tutti gli account" },
   "loadingAccounts": { "message": "Caricamento degli account…" },
   "cleanupLegend": { "message": "Pulizia" },
   "deleteSpamTrash": { "message": "Elimina le vecchie email in Spam e Cestino" },

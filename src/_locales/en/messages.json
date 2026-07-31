@@ -12,6 +12,7 @@
   "customValue": { "message": "Custom value" },
   "daysUnit": { "message": "days" },
   "accountsLegend": { "message": "Select accounts" },
+  "allAccounts": { "message": "All accounts" },
   "loadingAccounts": { "message": "Loading accounts…" },
   "cleanupLegend": { "message": "Cleanup" },
   "deleteSpamTrash": { "message": "Delete old email in Spam and Trash" },

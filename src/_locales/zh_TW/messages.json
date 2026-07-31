@@ -38,6 +38,9 @@
     "accountsLegend":  {
                            "message":  "選擇帳戶"
                        },
+    "allAccounts":  {
+                        "message":  "All accounts"
+                    },
     "loadingAccounts":  {
                             "message":  "正在加載帳戶…"
                         },

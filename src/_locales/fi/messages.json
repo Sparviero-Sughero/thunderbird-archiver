@@ -38,6 +38,9 @@
     "accountsLegend":  {
                            "message":  "Valitse tilit"
                        },
+    "allAccounts":  {
+                        "message":  "All accounts"
+                    },
     "loadingAccounts":  {
                             "message":  "Ladataan tilejä"
                         },

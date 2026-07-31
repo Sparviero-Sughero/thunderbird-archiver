@@ -38,6 +38,9 @@
     "accountsLegend":  {
                            "message":  "Selectați conturile"
                        },
+    "allAccounts":  {
+                        "message":  "All accounts"
+                    },
     "loadingAccounts":  {
                             "message":  "Se încarcă conturile..."
                         },

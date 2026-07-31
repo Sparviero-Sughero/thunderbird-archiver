@@ -38,6 +38,9 @@
     "accountsLegend":  {
                            "message":  "アカウントの選択"
                        },
+    "allAccounts":  {
+                        "message":  "All accounts"
+                    },
     "loadingAccounts":  {
                             "message":  "アカウントを読み込み中..."
                         },

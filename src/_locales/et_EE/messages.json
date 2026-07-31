@@ -38,6 +38,9 @@
     "accountsLegend":  {
                            "message":  "Valige kontod"
                        },
+    "allAccounts":  {
+                        "message":  "All accounts"
+                    },
     "loadingAccounts":  {
                             "message":  "Kontode laadimine"
                         },

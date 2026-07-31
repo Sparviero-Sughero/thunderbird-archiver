@@ -38,6 +38,9 @@
     "accountsLegend":  {
                            "message":  "Välj konton"
                        },
+    "allAccounts":  {
+                        "message":  "All accounts"
+                    },
     "loadingAccounts":  {
                             "message":  "Laddar konton..."
                         },

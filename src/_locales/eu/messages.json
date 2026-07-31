@@ -38,6 +38,9 @@
     "accountsLegend":  {
                            "message":  "Hautatu kontuak"
                        },
+    "allAccounts":  {
+                        "message":  "All accounts"
+                    },
     "loadingAccounts":  {
                             "message":  "Kontuak kargatzenâ¦"
                         },

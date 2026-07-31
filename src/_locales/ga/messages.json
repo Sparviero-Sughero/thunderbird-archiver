@@ -38,6 +38,9 @@
     "accountsLegend":  {
                            "message":  "Roghnaigh cuntais"
                        },
+    "allAccounts":  {
+                        "message":  "All accounts"
+                    },
     "loadingAccounts":  {
                             "message":  "Cuntais á lódáil"
                         },

@@ -38,6 +38,9 @@
     "accountsLegend":  {
                            "message":  "Válasszon fiókokat"
                        },
+    "allAccounts":  {
+                        "message":  "All accounts"
+                    },
     "loadingAccounts":  {
                             "message":  "Fiókok betöltése"
                         },

@@ -38,6 +38,9 @@
     "accountsLegend":  {
                            "message":  "აირჩიეთ ანგარიშები"
                        },
+    "allAccounts":  {
+                        "message":  "All accounts"
+                    },
     "loadingAccounts":  {
                             "message":  "იტვირთება ანგარიშები"
                         },

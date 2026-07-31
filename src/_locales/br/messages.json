@@ -38,6 +38,9 @@
     "accountsLegend":  {
                            "message":  "Dibab kontoù"
                        },
+    "allAccounts":  {
+                        "message":  "All accounts"
+                    },
     "loadingAccounts":  {
                             "message":  "O kargañ kontoùâ€¦"
                         },

@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.4.0 - 2026-07-31
+
+- Added a persistent “All accounts” option which also includes accounts added later.
+
 ## 1.3.1 - 2026-07-31
 
 - Fixed Windows-built XPI archives using backslashes in ZIP entry paths.

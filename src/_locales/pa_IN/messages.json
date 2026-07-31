@@ -38,6 +38,9 @@
     "accountsLegend":  {
                            "message":  "ਖਾਤੇ ਚੁਣੋ"
                        },
+    "allAccounts":  {
+                        "message":  "All accounts"
+                    },
     "loadingAccounts":  {
                             "message":  "ਖਾਤੇ ਲੋਡ ਕੀਤੇ ਜਾ ਰਹੇ ਹਨ..."
                         },

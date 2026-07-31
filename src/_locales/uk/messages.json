@@ -38,6 +38,9 @@
     "accountsLegend":  {
                            "message":  "Виберіть облікові записи"
                        },
+    "allAccounts":  {
+                        "message":  "All accounts"
+                    },
     "loadingAccounts":  {
                             "message":  "Завантаження облікових записів…"
                         },

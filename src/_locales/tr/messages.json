@@ -38,6 +38,9 @@
     "accountsLegend":  {
                            "message":  "Hesapları seçin"
                        },
+    "allAccounts":  {
+                        "message":  "All accounts"
+                    },
     "loadingAccounts":  {
                             "message":  "Hesaplar yükleniyor…"
                         },

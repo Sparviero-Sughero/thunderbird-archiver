@@ -38,6 +38,9 @@
     "accountsLegend":  {
                            "message":  "Есептік жазбаларды таңдаңыз"
                        },
+    "allAccounts":  {
+                        "message":  "All accounts"
+                    },
     "loadingAccounts":  {
                             "message":  "Есептік жазбалар жүктелуде…"
                         },

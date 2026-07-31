@@ -38,6 +38,9 @@
     "accountsLegend":  {
                            "message":  "অ্যাকাউন্ট নির্বাচন করুন"
                        },
+    "allAccounts":  {
+                        "message":  "All accounts"
+                    },
     "loadingAccounts":  {
                             "message":  "অ্যাকাউন্টগুলি লোড হচ্ছে৷"
                         },

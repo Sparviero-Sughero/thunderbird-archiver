@@ -38,6 +38,9 @@
     "accountsLegend":  {
                            "message":  "Dewiswch gyfrifon"
                        },
+    "allAccounts":  {
+                        "message":  "All accounts"
+                    },
     "loadingAccounts":  {
                             "message":  "Wrthi\u0027n llwytho cyfrifon"
                         },

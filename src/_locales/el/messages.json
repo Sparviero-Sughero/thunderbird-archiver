@@ -38,6 +38,9 @@
     "accountsLegend":  {
                            "message":  "Επιλέξτε λογαριασμούς"
                        },
+    "allAccounts":  {
+                        "message":  "All accounts"
+                    },
     "loadingAccounts":  {
                             "message":  "Φόρτωση λογαριασμών"
                         },

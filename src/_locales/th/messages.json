@@ -38,6 +38,9 @@
     "accountsLegend":  {
                            "message":  "เลือกบัญชี"
                        },
+    "allAccounts":  {
+                        "message":  "All accounts"
+                    },
     "loadingAccounts":  {
                             "message":  "กำลังโหลดบัญชีâ €¦"
                         },

@@ -38,6 +38,9 @@
     "accountsLegend":  {
                            "message":  "Sélectionnez les comptes"
                        },
+    "allAccounts":  {
+                        "message":  "All accounts"
+                    },
     "loadingAccounts":  {
                             "message":  "Chargement des comptes…"
                         },
