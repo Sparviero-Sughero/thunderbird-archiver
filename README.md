@@ -21,7 +21,7 @@ Archive, Trash, Junk, Drafts, Templates, and Outbox folders are excluded from ar
 
 Download the latest `.xpi` from [GitHub Releases](https://github.com/Sparviero-Sughero/thunderbird-archiver/releases), then in Thunderbird open **Add-ons and Themes**, choose **Install Add-on From File…**, and select it.
 
-The latest generated package is also kept in [`dist/`](dist/).
+Local builds are written to `dist/`, while public packages are available from GitHub Releases.
 
 For development, open **Add-ons and Themes → Debug Add-ons → Load Temporary Add-on** and select [`src/manifest.json`](src/manifest.json).
 

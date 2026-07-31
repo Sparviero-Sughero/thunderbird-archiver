@@ -1,5 +1,4 @@
-*.xpi
-!dist/*.xpi
+dist/
 *.zip
 .DS_Store
 Thumbs.db
