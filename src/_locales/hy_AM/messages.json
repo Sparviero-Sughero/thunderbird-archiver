@@ -1,0 +1,89 @@
+﻿{
+    "extensionName":  {
+                          "message":  "Ավտոարխիվ"
+                      },
+    "extensionDescription":  {
+                                 "message":  "Արխիվացնում է հին հաղորդագրությունները՝ օգտագործելով Thunderbird-ի կազմաձևված Արխիվային գործողությունը:"
+                             },
+    "actionTitle":  {
+                        "message":  "Արխիվացրեք հին հաղորդագրությունները"
+                    },
+    "pageTitle":  {
+                      "message":  "Ավտոարխիվային կարգավորումներ"
+                  },
+    "heading":  {
+                    "message":  "Ավտոարխիվ"
+                },
+    "intro":  {
+                  "message":  "Օրական մեկ անգամ արխիվացրեք ընտրված տարիքից ավելի հին հաղորդագրությունները՝ օգտագործելով Thunderbird-ի արխիվի կարգավորումները:"
+              },
+    "daysLegend":  {
+                       "message":  "Օրեր"
+                   },
+    "twoMonths":  {
+                      "message":  "2 ամիս (60 օր)"
+                  },
+    "sixMonths":  {
+                      "message":  "6 ամիս (180 օր)"
+                  },
+    "oneYear":  {
+                    "message":  "1 տարի (365 օր)"
+                },
+    "customValue":  {
+                        "message":  "Պատվերով արժեք"
+                    },
+    "daysUnit":  {
+                     "message":  "օրեր"
+                 },
+    "accountsLegend":  {
+                           "message":  "Ընտրեք հաշիվներ"
+                       },
+    "loadingAccounts":  {
+                            "message":  "Հաշիվների բեռնում"
+                        },
+    "cleanupLegend":  {
+                          "message":  "Մաքրում"
+                      },
+    "deleteSpamTrash":  {
+                            "message":  "Ջնջել հին էլփոստը Սպամից և Աղբարկղից"
+                        },
+    "deleteWarning":  {
+                          "message":  "Ընտրված տարիքից հին հաղորդագրություններն ընդմիշտ կջնջվեն և չեն կարող վերականգնվել:"
+                      },
+    "saveButton":  {
+                       "message":  "Պահպանել"
+                   },
+    "runButton":  {
+                      "message":  "Արխիվացրեք հիմա"
+                  },
+    "exclusionsTitle":  {
+                            "message":  "Արխիվացման բացառումներ."
+                        },
+    "exclusionsText":  {
+                           "message":  "Արխիվ և դրա ենթաթղթապանակներ, Աղբարկղ, Անպետք, Սևագրեր, Կաղապարներ և Ելքային արկղ: Սպամը և աղբարկղը մաքրվում են միայն այն դեպքում, երբ վերը նշված տարբերակը միացված է:"
+                       },
+    "invalidCustomDays":  {
+                              "message":  "Մուտքագրեք առնվազն 1 օրվա հատուկ արժեք:"
+                          },
+    "noAccounts":  {
+                       "message":  "Փոստի հաշիվներ չկան:"
+                   },
+    "settingsSaved":  {
+                          "message":  "Կարգավորումները պահված են:"
+                      },
+    "archivingStatus":  {
+                            "message":  "Հին հաղորդագրությունների արխիվացում. Thunderbird-ը բաց պահեք:"
+                        },
+    "selectAccountError":  {
+                               "message":  "Ընտրեք առնվազն մեկ հաշիվ:"
+                           },
+    "lastRunStatus":  {
+                          "message":  "Վերջին գործարկումը՝ $1 â€” $2 արխիվացված, $3 ջնջված:"
+                      },
+    "runResult":  {
+                      "message":  "$1 հաղորդագրությունները արխիվացված են, $2 ընդմիշտ ջնջված:"
+                  },
+    "folderErrors":  {
+                         "message":  "$1 պանակները չեն կարող մշակվել:"
+                     }
+}

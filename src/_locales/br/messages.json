@@ -1,0 +1,89 @@
+﻿{
+    "extensionName":  {
+                          "message":  "Diell emgefre"
+                      },
+    "extensionDescription":  {
+                                 "message":  "Diellaouiñ a ra ar c\u0027hemennadennoù kozh en ur implijout an ober Diellaouiñ kefluniet gant Thunderbird."
+                             },
+    "actionTitle":  {
+                        "message":  "Diellaouiñ kemennadennoù kozh"
+                    },
+    "pageTitle":  {
+                      "message":  "Arventennoù diellaouiñ emgefre"
+                  },
+    "heading":  {
+                    "message":  "Diell emgefre"
+                },
+    "intro":  {
+                  "message":  "Ur wech bemdez, enrollit kemennadennoù koshoc\u0027h eget an oad dibabet en ur implijout arventennoù Thunderbird Archive pep kont."
+              },
+    "daysLegend":  {
+                       "message":  "Deizioù"
+                   },
+    "twoMonths":  {
+                      "message":  "2 miz (60 devezh)"
+                  },
+    "sixMonths":  {
+                      "message":  "6 miz (180 devezh)"
+                  },
+    "oneYear":  {
+                    "message":  "1 bloaz (365 devezh)"
+                },
+    "customValue":  {
+                        "message":  "Talvoud personelaet"
+                    },
+    "daysUnit":  {
+                     "message":  "deizioù"
+                 },
+    "accountsLegend":  {
+                           "message":  "Dibab kontoù"
+                       },
+    "loadingAccounts":  {
+                            "message":  "O kargañ kontoùâ€¦"
+                        },
+    "cleanupLegend":  {
+                          "message":  "Naetaat"
+                      },
+    "deleteSpamTrash":  {
+                            "message":  "Dilemel ar posteloù kozh e-barzh ar stroboù hag al lastez"
+                        },
+    "deleteWarning":  {
+                          "message":  "Ar c\u0027hemennadennoù koshoc\u0027h eget an oad diuzet a vo dilamet da viken ha ne c\u0027hallont ket bezañ adsavet."
+                      },
+    "saveButton":  {
+                       "message":  "Enrollañ"
+                   },
+    "runButton":  {
+                      "message":  "Diellaouiñ bremañ"
+                  },
+    "exclusionsTitle":  {
+                            "message":  "Diellaouiñ an dielloù :"
+                        },
+    "exclusionsText":  {
+                           "message":  "Arc\u0027hwel hag e isrenkelloù, Lastez, Lastez, Brouilhedoù, Patromoù ha Boest-degemer. N\u0027eo naetaet ar spamoù hag al lastez nemet pa vez gweredekaet an dibarzh meneget a-us."
+                       },
+    "invalidCustomDays":  {
+                              "message":  "Lakait ur werzh personelaet a 1 devezh da nebeutañ."
+                          },
+    "noAccounts":  {
+                       "message":  "Kont postel ebet hegerz."
+                   },
+    "settingsSaved":  {
+                          "message":  "Arventennoù enrollet."
+                      },
+    "archivingStatus":  {
+                            "message":  "Diellaouiñ kemennadennoù kozhâ€¦ Derc\u0027hel Thunderbird digor."
+                        },
+    "selectAccountError":  {
+                               "message":  "Dibabit ur gont da nebeutañ."
+                           },
+    "lastRunStatus":  {
+                          "message":  "Redadeg diwezhañ : $1 â€” $2 diellaouet, $3 diverket."
+                      },
+    "runResult":  {
+                      "message":  "$1 kemennadennoù diellaouet, $2 diverket da viken."
+                  },
+    "folderErrors":  {
+                         "message":  "$1 teuliadoù n\u0027hallont ket bezañ treuzfurmet."
+                     }
+}

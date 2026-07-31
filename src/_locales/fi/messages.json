@@ -1,0 +1,89 @@
+﻿{
+    "extensionName":  {
+                          "message":  "Automaattinen arkistointi"
+                      },
+    "extensionDescription":  {
+                                 "message":  "Arkistoi vanhat viestit Thunderbirdin määritetyn arkistointitoiminnon avulla."
+                             },
+    "actionTitle":  {
+                        "message":  "Arkistoi vanhat viestit"
+                    },
+    "pageTitle":  {
+                      "message":  "Automaattisen arkistoinnin asetukset"
+                  },
+    "heading":  {
+                    "message":  "Automaattinen arkistointi"
+                },
+    "intro":  {
+                  "message":  "Arkistoi valitun iän vanhemmat viestit kerran päivässä kunkin tilin Thunderbird Archive -asetusten avulla."
+              },
+    "daysLegend":  {
+                       "message":  "päivää"
+                   },
+    "twoMonths":  {
+                      "message":  "2 kuukautta (60 päivää)"
+                  },
+    "sixMonths":  {
+                      "message":  "6 kuukautta (180 päivää)"
+                  },
+    "oneYear":  {
+                    "message":  "1 vuosi (365 päivää)"
+                },
+    "customValue":  {
+                        "message":  "Muokattu arvo"
+                    },
+    "daysUnit":  {
+                     "message":  "päivää"
+                 },
+    "accountsLegend":  {
+                           "message":  "Valitse tilit"
+                       },
+    "loadingAccounts":  {
+                            "message":  "Ladataan tilejä"
+                        },
+    "cleanupLegend":  {
+                          "message":  "Puhdistus"
+                      },
+    "deleteSpamTrash":  {
+                            "message":  "Poista vanhat sähköpostit roskapostista ja roskakorista"
+                        },
+    "deleteWarning":  {
+                          "message":  "Valittua ikää vanhemmat viestit poistetaan pysyvästi, eikä niitä voi palauttaa."
+                      },
+    "saveButton":  {
+                       "message":  "Tallenna"
+                   },
+    "runButton":  {
+                      "message":  "Arkistoi nyt"
+                  },
+    "exclusionsTitle":  {
+                            "message":  "Arkistoinnin poissulkemiset:"
+                        },
+    "exclusionsText":  {
+                           "message":  "Arkisto ja sen alikansiot, Roskakori, Roskaposti, Luonnokset, Mallit ja Lähtevät. Roskaposti ja roskakori puhdistetaan vain, kun yllä oleva vaihtoehto on käytössä."
+                       },
+    "invalidCustomDays":  {
+                              "message":  "Anna muokattu arvo, joka on vähintään 1 päivä."
+                          },
+    "noAccounts":  {
+                       "message":  "Sähköpostitilejä ei ole saatavilla."
+                   },
+    "settingsSaved":  {
+                          "message":  "Asetukset tallennettu."
+                      },
+    "archivingStatus":  {
+                            "message":  "Vanhojen viestien arkistointi – Pidä Thunderbird auki."
+                        },
+    "selectAccountError":  {
+                               "message":  "Valitse vähintään yksi tili."
+                           },
+    "lastRunStatus":  {
+                          "message":  "Viimeisin ajo: $1 â€” $2 arkistoitu, $3 poistettu."
+                      },
+    "runResult":  {
+                      "message":  "$1 viestiä arkistoitu, $2 poistettu pysyvästi."
+                  },
+    "folderErrors":  {
+                         "message":  "$1 kansiota ei voitu käsitellä."
+                     }
+}

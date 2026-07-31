@@ -1,0 +1,89 @@
+﻿{
+    "extensionName":  {
+                          "message":  "Arxiu automàtic"
+                      },
+    "extensionDescription":  {
+                                 "message":  "Arxiva els missatges antics mitjançant l\u0027acció d\u0027arxiu configurada de Thunderbird."
+                             },
+    "actionTitle":  {
+                        "message":  "Arxiva els missatges antics"
+                    },
+    "pageTitle":  {
+                      "message":  "Configuració de l\u0027arxiu automàtic"
+                  },
+    "heading":  {
+                    "message":  "Arxiu automàtic"
+                },
+    "intro":  {
+                  "message":  "Un cop al dia, arxiveu els missatges més antics que l\u0027edat seleccionada mitjançant la configuració de l\u0027arxiu Thunderbird de cada compte."
+              },
+    "daysLegend":  {
+                       "message":  "Dies"
+                   },
+    "twoMonths":  {
+                      "message":  "2 mesos (60 dies)"
+                  },
+    "sixMonths":  {
+                      "message":  "6 mesos (180 dies)"
+                  },
+    "oneYear":  {
+                    "message":  "1 any (365 dies)"
+                },
+    "customValue":  {
+                        "message":  "Valor personalitzat"
+                    },
+    "daysUnit":  {
+                     "message":  "dies"
+                 },
+    "accountsLegend":  {
+                           "message":  "Seleccioneu comptes"
+                       },
+    "loadingAccounts":  {
+                            "message":  "Carregant comptes..."
+                        },
+    "cleanupLegend":  {
+                          "message":  "Neteja"
+                      },
+    "deleteSpamTrash":  {
+                            "message":  "Suprimeix el correu electrònic antic al correu brossa i a la paperera"
+                        },
+    "deleteWarning":  {
+                          "message":  "Els missatges anteriors a l\u0027edat seleccionada se suprimiran permanentment i no es podran restaurar."
+                      },
+    "saveButton":  {
+                       "message":  "Desa"
+                   },
+    "runButton":  {
+                      "message":  "Arxiu ara"
+                  },
+    "exclusionsTitle":  {
+                            "message":  "Arxiu d\u0027exclusions:"
+                        },
+    "exclusionsText":  {
+                           "message":  "Arxiu i les seves subcarpetes, Paperera, Brossa, Esborranys, Plantilles i Bústia de sortida. El correu brossa i la paperera només es netegen quan l\u0027opció anterior està activada."
+                       },
+    "invalidCustomDays":  {
+                              "message":  "Introduïu un valor personalitzat d\u0027almenys 1 dia."
+                          },
+    "noAccounts":  {
+                       "message":  "No hi ha cap compte de correu disponible."
+                   },
+    "settingsSaved":  {
+                          "message":  "S\u0027ha desat la configuració."
+                      },
+    "archivingStatus":  {
+                            "message":  "Arxivant missatges antics... Manteniu el Thunderbird obert."
+                        },
+    "selectAccountError":  {
+                               "message":  "Seleccioneu almenys un compte."
+                           },
+    "lastRunStatus":  {
+                          "message":  "Última execució: $1 â€” $2 arxivat, $3 suprimit."
+                      },
+    "runResult":  {
+                      "message":  "$1 missatges arxivats, $2 suprimits permanentment."
+                  },
+    "folderErrors":  {
+                         "message":  "$1 carpetes no s\u0027han pogut processar."
+                     }
+}

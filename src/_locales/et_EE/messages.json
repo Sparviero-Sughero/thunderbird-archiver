@@ -1,0 +1,89 @@
+﻿{
+    "extensionName":  {
+                          "message":  "Automaatne arhiveerimine"
+                      },
+    "extensionDescription":  {
+                                 "message":  "Arhiveerib vanad kirjad Thunderbirdi konfigureeritud arhiivitoimingu abil."
+                             },
+    "actionTitle":  {
+                        "message":  "Arhiivige vanu sõnumeid"
+                    },
+    "pageTitle":  {
+                      "message":  "Automaatse arhiivi seaded"
+                  },
+    "heading":  {
+                    "message":  "Automaatne arhiveerimine"
+                },
+    "intro":  {
+                  "message":  "Arhiivige kord päevas valitud vanusest vanemad sõnumid, kasutades iga konto Thunderbirdi arhiivi seadeid."
+              },
+    "daysLegend":  {
+                       "message":  "Päevad"
+                   },
+    "twoMonths":  {
+                      "message":  "2 kuud (60 päeva)"
+                  },
+    "sixMonths":  {
+                      "message":  "6 kuud (180 päeva)"
+                  },
+    "oneYear":  {
+                    "message":  "1 aasta (365 päeva)"
+                },
+    "customValue":  {
+                        "message":  "Kohandatud väärtus"
+                    },
+    "daysUnit":  {
+                     "message":  "päevadel"
+                 },
+    "accountsLegend":  {
+                           "message":  "Valige kontod"
+                       },
+    "loadingAccounts":  {
+                            "message":  "Kontode laadimine"
+                        },
+    "cleanupLegend":  {
+                          "message":  "Puhastamine"
+                      },
+    "deleteSpamTrash":  {
+                            "message":  "Kustutage vanad meilid kaustas Rämpspost ja Prügikast"
+                        },
+    "deleteWarning":  {
+                          "message":  "Valitud vanusest vanemad sõnumid kustutatakse jäädavalt ja neid ei saa taastada."
+                      },
+    "saveButton":  {
+                       "message":  "Salvesta"
+                   },
+    "runButton":  {
+                      "message":  "Arhiivi kohe"
+                  },
+    "exclusionsTitle":  {
+                            "message":  "Arhiveerimise välistused:"
+                        },
+    "exclusionsText":  {
+                           "message":  "Arhiiv ja selle alamkaustad, prügikast, rämpspost, mustandid, mallid ja väljundkaust. Rämpspost ja prügikast puhastatakse ainult siis, kui ülaltoodud valik on lubatud."
+                       },
+    "invalidCustomDays":  {
+                              "message":  "Sisestage kohandatud väärtus, mis on vähemalt 1 päev."
+                          },
+    "noAccounts":  {
+                       "message":  "Meilikontosid pole saadaval."
+                   },
+    "settingsSaved":  {
+                          "message":  "Seaded salvestatud."
+                      },
+    "archivingStatus":  {
+                            "message":  "Vanade sõnumite arhiveerimine – hoidke Thunderbird avatuna."
+                        },
+    "selectAccountError":  {
+                               "message":  "Valige vähemalt üks konto."
+                           },
+    "lastRunStatus":  {
+                          "message":  "Viimane käitamine: $1 â€” $2 arhiveeritud, $3 kustutatud."
+                      },
+    "runResult":  {
+                      "message":  "$1 kirjad arhiivitud, $2 kustutatud jäädavalt."
+                  },
+    "folderErrors":  {
+                         "message":  "$1 kausta ei saanud töödelda."
+                     }
+}

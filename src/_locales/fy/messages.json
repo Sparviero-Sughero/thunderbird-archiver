@@ -1,0 +1,89 @@
+﻿{
+    "extensionName":  {
+                          "message":  "Auto Argyf"
+                      },
+    "extensionDescription":  {
+                                 "message":  "Argivearret âlde berjochten mei Thunderbird\u0027s konfigureare argyfaksje."
+                             },
+    "actionTitle":  {
+                        "message":  "Argivearje âlde berjochten"
+                    },
+    "pageTitle":  {
+                      "message":  "Auto Archive ynstellings"
+                  },
+    "heading":  {
+                    "message":  "Auto Argyf"
+                },
+    "intro":  {
+                  "message":  "Ien kear deis argyfje berjochten âlder dan de selekteare leeftyd mei de Thunderbird-argyfynstellingen fan elk akkount."
+              },
+    "daysLegend":  {
+                       "message":  "Dagen"
+                   },
+    "twoMonths":  {
+                      "message":  "2 moannen (60 dagen)"
+                  },
+    "sixMonths":  {
+                      "message":  "6 moannen (180 dagen)"
+                  },
+    "oneYear":  {
+                    "message":  "1 jier (365 dagen)"
+                },
+    "customValue":  {
+                        "message":  "Oanpaste wearde"
+                    },
+    "daysUnit":  {
+                     "message":  "dagen"
+                 },
+    "accountsLegend":  {
+                           "message":  "Selektearje akkounts"
+                       },
+    "loadingAccounts":  {
+                            "message":  "Laad accountsâ€¦"
+                        },
+    "cleanupLegend":  {
+                          "message":  "Cleanup"
+                      },
+    "deleteSpamTrash":  {
+                            "message":  "Wiskje âlde e-post yn Spam en Jiskefet"
+                        },
+    "deleteWarning":  {
+                          "message":  "Berjochten âlder dan de selektearre leeftyd wurde permanint wiske en kinne net weromset wurde."
+                      },
+    "saveButton":  {
+                       "message":  "Bewarje"
+                   },
+    "runButton":  {
+                      "message":  "Argyf no"
+                  },
+    "exclusionsTitle":  {
+                            "message":  "Argivearjen útslúten:"
+                        },
+    "exclusionsText":  {
+                           "message":  "Argyf en syn submappen, jiskefet, junk, ûntwerpen, sjabloanen en Postfak. Spam en jiskefet wurde allinich skjinmakke as de opsje hjirboppe ynskeakele is."
+                       },
+    "invalidCustomDays":  {
+                              "message":  "Fier in oanpaste wearde yn fan op syn minst 1 dei."
+                          },
+    "noAccounts":  {
+                       "message":  "Gjin post akkounts beskikber."
+                   },
+    "settingsSaved":  {
+                          "message":  "Ynstellings bewarre."
+                      },
+    "archivingStatus":  {
+                            "message":  "Argivearje âlde berjochten ... Hâld Thunderbird iepen."
+                        },
+    "selectAccountError":  {
+                               "message":  "Selektearje op syn minst ien akkount."
+                           },
+    "lastRunStatus":  {
+                          "message":  "Lêste run: $1 â€\" $2 argivearre, $3 wiske."
+                      },
+    "runResult":  {
+                      "message":  "$1 berjochten argyfearre, $2 permanint wiske."
+                  },
+    "folderErrors":  {
+                         "message":  "$1 mappen koene net ferwurke wurde."
+                     }
+}

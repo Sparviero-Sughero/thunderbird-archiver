@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title data-i18n="pageTitle">Auto Archive settings</title>
+    <link rel="stylesheet" href="options.css">
+  </head>
+  <body>
+    <main>
+      <h1 data-i18n="heading">Auto Archive</h1>
+      <p class="intro" data-i18n="intro">Once a day, archive messages older than the selected age using each account's Thunderbird Archive settings.</p>
+
+      <form id="settings-form">
+        <fieldset>
+          <legend data-i18n="daysLegend">Days</legend>
+          <label><input type="radio" name="agePreset" value="2months"> <span data-i18n="twoMonths">2 months (60 days)</span></label>
+          <label><input type="radio" name="agePreset" value="6months"> <span data-i18n="sixMonths">6 months (180 days)</span></label>
+          <label><input type="radio" name="agePreset" value="1year"> <span data-i18n="oneYear">1 year (365 days)</span></label>
+          <label class="custom-row">
+            <input type="radio" name="agePreset" value="custom">
+            <span data-i18n="customValue">Custom value</span>
+            <input id="custom-days" type="number" min="1" max="36500" step="1" value="180">
+            <span data-i18n="daysUnit">days</span>
+          </label>
+        </fieldset>
+
+        <fieldset>
+          <legend data-i18n="accountsLegend">Select accounts</legend>
+          <div id="accounts" class="accounts" aria-live="polite" data-i18n="loadingAccounts">Loading accounts…</div>
+        </fieldset>
+
+        <fieldset>
+          <legend data-i18n="cleanupLegend">Cleanup</legend>
+          <label>
+            <input id="delete-spam-trash" type="checkbox">
+            <span data-i18n="deleteSpamTrash">Delete old email in Spam and Trash</span>
+          </label>
+          <p class="warning" data-i18n="deleteWarning">Messages older than the selected age will be permanently deleted and cannot be restored.</p>
+        </fieldset>
+
+        <div class="actions">
+          <button type="submit" class="primary" data-i18n="saveButton">Save</button>
+          <button type="button" id="run-now" data-i18n="runButton">Archive now</button>
+        </div>
+      </form>
+
+      <p id="status" class="status" role="status" aria-live="polite"></p>
+      <section class="note">
+        <strong data-i18n="exclusionsTitle">Archiving exclusions:</strong>
+        <span data-i18n="exclusionsText">Archive and its subfolders, Trash, Junk, Drafts, Templates and Outbox. Spam and Trash are cleaned only when the option above is enabled.</span>
+      </section>
+    </main>
+    <script src="options.js"></script>
+  </body>
+</html>

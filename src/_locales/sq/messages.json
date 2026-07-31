@@ -1,0 +1,89 @@
+﻿{
+    "extensionName":  {
+                          "message":  "Arkivi automatik"
+                      },
+    "extensionDescription":  {
+                                 "message":  "Arkivon mesazhet e vjetra duke përdorur veprimin e konfiguruar të Arkivit të Thunderbird."
+                             },
+    "actionTitle":  {
+                        "message":  "Arkivoni mesazhet e vjetra"
+                    },
+    "pageTitle":  {
+                      "message":  "Cilësimet e arkivimit automatik"
+                  },
+    "heading":  {
+                    "message":  "Arkivi automatik"
+                },
+    "intro":  {
+                  "message":  "Një herë në ditë, arkivoni mesazhe më të vjetra se mosha e zgjedhur duke përdorur cilësimet e \"Thunderbird Archive\" të secilës llogari."
+              },
+    "daysLegend":  {
+                       "message":  "Ditët"
+                   },
+    "twoMonths":  {
+                      "message":  "2 muaj (60 ditë)"
+                  },
+    "sixMonths":  {
+                      "message":  "6 muaj (180 ditë)"
+                  },
+    "oneYear":  {
+                    "message":  "1 vit (365 ditë)"
+                },
+    "customValue":  {
+                        "message":  "Vlera e personalizuar"
+                    },
+    "daysUnit":  {
+                     "message":  "ditë"
+                 },
+    "accountsLegend":  {
+                           "message":  "Zgjidhni llogaritë"
+                       },
+    "loadingAccounts":  {
+                            "message":  "Ngarkimi i llogarive -"
+                        },
+    "cleanupLegend":  {
+                          "message":  "Pastrim"
+                      },
+    "deleteSpamTrash":  {
+                            "message":  "Fshini emailin e vjetër në Postë të padëshiruar dhe kosh"
+                        },
+    "deleteWarning":  {
+                          "message":  "Mesazhet më të vjetra se mosha e zgjedhur do të fshihen përgjithmonë dhe nuk mund të restaurohen."
+                      },
+    "saveButton":  {
+                       "message":  "Ruaj"
+                   },
+    "runButton":  {
+                      "message":  "Arkivo tani"
+                  },
+    "exclusionsTitle":  {
+                            "message":  "Përjashtimet e arkivimit:"
+                        },
+    "exclusionsText":  {
+                           "message":  "Arkivi dhe nën-dosjet e tij, Koshi, Junk, Draftet, Modelet dhe Kutia dalëse. Posta e padëshiruar dhe koshi pastrohen vetëm kur opsioni i mësipërm është i aktivizuar."
+                       },
+    "invalidCustomDays":  {
+                              "message":  "Fut një vlerë të personalizuar prej të paktën 1 dite."
+                          },
+    "noAccounts":  {
+                       "message":  "Nuk ka llogari poste të disponueshme."
+                   },
+    "settingsSaved":  {
+                          "message":  "Cilësimet u ruajtën."
+                      },
+    "archivingStatus":  {
+                            "message":  "Arkivimi i mesazheve të vjetra - Mbajeni Thunderbird të hapur."
+                        },
+    "selectAccountError":  {
+                               "message":  "Zgjidhni të paktën një llogari."
+                           },
+    "lastRunStatus":  {
+                          "message":  "Ekzekutimi i fundit: $1 â€” $2 u arkivua, $3 u fshi."
+                      },
+    "runResult":  {
+                      "message":  "Mesazhet e $1 u arkivuan, $2 u fshinë përgjithmonë."
+                  },
+    "folderErrors":  {
+                         "message":  "Dosjet $1 nuk mund të përpunoheshin."
+                     }
+}

@@ -1,0 +1,89 @@
+﻿{
+    "extensionName":  {
+                          "message":  "自动存档"
+                      },
+    "extensionDescription":  {
+                                 "message":  "使用 Thunderbird 配置的存档操作存档旧消息。"
+                             },
+    "actionTitle":  {
+                        "message":  "存档旧消息"
+                    },
+    "pageTitle":  {
+                      "message":  "自动存档设置"
+                  },
+    "heading":  {
+                    "message":  "自动存档"
+                },
+    "intro":  {
+                  "message":  "每天一次，使用每个帐户的 Thunderbird 存档设置存档早于所选期限的邮件。"
+              },
+    "daysLegend":  {
+                       "message":  "天"
+                   },
+    "twoMonths":  {
+                      "message":  "2个月（60天）"
+                  },
+    "sixMonths":  {
+                      "message":  "6个月（180天）"
+                  },
+    "oneYear":  {
+                    "message":  "1年（365天）"
+                },
+    "customValue":  {
+                        "message":  "定制值"
+                    },
+    "daysUnit":  {
+                     "message":  "天"
+                 },
+    "accountsLegend":  {
+                           "message":  "选择账户"
+                       },
+    "loadingAccounts":  {
+                            "message":  "正在加载帐户……"
+                        },
+    "cleanupLegend":  {
+                          "message":  "清理"
+                      },
+    "deleteSpamTrash":  {
+                            "message":  "删除垃圾邮件和已删除邮件中的旧电子邮件"
+                        },
+    "deleteWarning":  {
+                          "message":  "早于所选年龄的消息将被永久删除且无法恢复。"
+                      },
+    "saveButton":  {
+                       "message":  "节省"
+                   },
+    "runButton":  {
+                      "message":  "立即存档"
+                  },
+    "exclusionsTitle":  {
+                            "message":  "归档排除："
+                        },
+    "exclusionsText":  {
+                           "message":  "存档及其子文件夹、垃圾箱、垃圾邮件、草稿、模板和发件箱。仅当启用上述选项时，垃圾邮件和垃圾箱才会被清除。"
+                       },
+    "invalidCustomDays":  {
+                              "message":  "输入至少 1 天的自定义值。"
+                          },
+    "noAccounts":  {
+                       "message":  "没有可用的邮件帐户。"
+                   },
+    "settingsSaved":  {
+                          "message":  "设置已保存。"
+                      },
+    "archivingStatus":  {
+                            "message":  "归档旧消息...保持 Thunderbird 打开。"
+                        },
+    "selectAccountError":  {
+                               "message":  "至少选择一个帐户。"
+                           },
+    "lastRunStatus":  {
+                          "message":  "上次运行：$1 - $2 已存档，$3 已删除。"
+                      },
+    "runResult":  {
+                      "message":  "$1 条消息已存档，$2 永久删除。"
+                  },
+    "folderErrors":  {
+                         "message":  "无法处理 $1 文件夹。"
+                     }
+}

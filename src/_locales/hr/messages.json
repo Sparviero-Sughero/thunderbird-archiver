@@ -1,0 +1,89 @@
+﻿{
+    "extensionName":  {
+                          "message":  "Auto Arhiva"
+                      },
+    "extensionDescription":  {
+                                 "message":  "Arhivira stare poruke koristeći Thunderbirdovu konfiguriranu akciju arhiviranja."
+                             },
+    "actionTitle":  {
+                        "message":  "Arhivirajte stare poruke"
+                    },
+    "pageTitle":  {
+                      "message":  "Postavke automatskog arhiviranja"
+                  },
+    "heading":  {
+                    "message":  "Auto Arhiva"
+                },
+    "intro":  {
+                  "message":  "Jednom dnevno arhivirajte poruke starije od odabrane dobi koristeći postavke arhive Thunderbird za svaki račun."
+              },
+    "daysLegend":  {
+                       "message":  "dana"
+                   },
+    "twoMonths":  {
+                      "message":  "2 mjeseca (60 dana)"
+                  },
+    "sixMonths":  {
+                      "message":  "6 mjeseci (180 dana)"
+                  },
+    "oneYear":  {
+                    "message":  "1 godina (365 dana)"
+                },
+    "customValue":  {
+                        "message":  "Prilagođena vrijednost"
+                    },
+    "daysUnit":  {
+                     "message":  "dana"
+                 },
+    "accountsLegend":  {
+                           "message":  "Odaberite račune"
+                       },
+    "loadingAccounts":  {
+                            "message":  "Učitavanje računa..."
+                        },
+    "cleanupLegend":  {
+                          "message":  "Čišćenje"
+                      },
+    "deleteSpamTrash":  {
+                            "message":  "Izbrišite staru e-poštu u neželjenoj pošti i smeću"
+                        },
+    "deleteWarning":  {
+                          "message":  "Poruke starije od odabrane dobi bit će trajno izbrisane i ne mogu se vratiti."
+                      },
+    "saveButton":  {
+                       "message":  "Uštedjeti"
+                   },
+    "runButton":  {
+                      "message":  "Arhivirajte sada"
+                  },
+    "exclusionsTitle":  {
+                            "message":  "Arhiviranje izuzetaka:"
+                        },
+    "exclusionsText":  {
+                           "message":  "Arhiva i njezine podmape, Otpad, Bezvrijedno, Skice, Predlošci i Odlazna pošta. Neželjena pošta i smeće se čiste samo kada je gornja opcija omogućena."
+                       },
+    "invalidCustomDays":  {
+                              "message":  "Unesite prilagođenu vrijednost od najmanje 1 dana."
+                          },
+    "noAccounts":  {
+                       "message":  "Nema dostupnih računa e-pošte."
+                   },
+    "settingsSaved":  {
+                          "message":  "Postavke su spremljene."
+                      },
+    "archivingStatus":  {
+                            "message":  "Arhiviranje starih poruka... Držite Thunderbird otvorenim."
+                        },
+    "selectAccountError":  {
+                               "message":  "Odaberite barem jedan račun."
+                           },
+    "lastRunStatus":  {
+                          "message":  "Zadnje pokretanje: $1 â€” $2 arhivirano, $3 izbrisano."
+                      },
+    "runResult":  {
+                      "message":  "$1 poruka arhivirano, $2 trajno izbrisano."
+                  },
+    "folderErrors":  {
+                         "message":  "$1 mapa nije bilo moguće obraditi."
+                     }
+}

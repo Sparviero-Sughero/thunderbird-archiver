@@ -1,0 +1,89 @@
+﻿{
+    "extensionName":  {
+                          "message":  "Tự động lưu trữ"
+                      },
+    "extensionDescription":  {
+                                 "message":  "Lưu trữ tin nhắn cũ bằng hành động Lưu trữ được cấu hình của Thunderbird."
+                             },
+    "actionTitle":  {
+                        "message":  "Lưu trữ tin nhắn cũ"
+                    },
+    "pageTitle":  {
+                      "message":  "Cài đặt lưu trữ tự động"
+                  },
+    "heading":  {
+                    "message":  "Tự động lưu trữ"
+                },
+    "intro":  {
+                  "message":  "Mỗi ngày một lần, hãy lưu trữ các thư cũ hơn độ tuổi đã chọn bằng cách sử dụng cài đặt Lưu trữ Thunderbird của mỗi tài khoản."
+              },
+    "daysLegend":  {
+                       "message":  "ngày"
+                   },
+    "twoMonths":  {
+                      "message":  "2 tháng (60 ngày)"
+                  },
+    "sixMonths":  {
+                      "message":  "6 tháng (180 ngày)"
+                  },
+    "oneYear":  {
+                    "message":  "1 năm (365 ngày)"
+                },
+    "customValue":  {
+                        "message":  "Giá trị tùy chỉnh"
+                    },
+    "daysUnit":  {
+                     "message":  "ngày"
+                 },
+    "accountsLegend":  {
+                           "message":  "Chọn tài khoản"
+                       },
+    "loadingAccounts":  {
+                            "message":  "Đang tải tài khoảnâ€¦"
+                        },
+    "cleanupLegend":  {
+                          "message":  "Dọn dẹp"
+                      },
+    "deleteSpamTrash":  {
+                            "message":  "Xóa email cũ trong Spam và Thùng rác"
+                        },
+    "deleteWarning":  {
+                          "message":  "Tin nhắn cũ hơn độ tuổi đã chọn sẽ bị xóa vĩnh viễn và không thể khôi phục."
+                      },
+    "saveButton":  {
+                       "message":  "Lưu"
+                   },
+    "runButton":  {
+                      "message":  "Lưu trữ ngay bây giờ"
+                  },
+    "exclusionsTitle":  {
+                            "message":  "Lưu trữ loại trừ:"
+                        },
+    "exclusionsText":  {
+                           "message":  "Lưu trữ và các thư mục con của nó, Thùng rác, Thư rác, Thư nháp, Mẫu và Hộp thư đi. Thư rác và Thùng rác chỉ được dọn sạch khi tùy chọn trên được bật."
+                       },
+    "invalidCustomDays":  {
+                              "message":  "Nhập giá trị tùy chỉnh ít nhất 1 ngày."
+                          },
+    "noAccounts":  {
+                       "message":  "Không có tài khoản thư có sẵn."
+                   },
+    "settingsSaved":  {
+                          "message":  "Đã lưu cài đặt."
+                      },
+    "archivingStatus":  {
+                            "message":  "Lưu trữ tin nhắn cũ… Giữ Thunderbird luôn mở."
+                        },
+    "selectAccountError":  {
+                               "message":  "Chọn ít nhất một tài khoản."
+                           },
+    "lastRunStatus":  {
+                          "message":  "Lần chạy cuối cùng: $1 â€” $2 đã lưu trữ, $3 đã xóa."
+                      },
+    "runResult":  {
+                      "message":  "$1 tin nhắn đã được lưu trữ, $2 đã bị xóa vĩnh viễn."
+                  },
+    "folderErrors":  {
+                         "message":  "Không thể xử lý $1 thư mục."
+                     }
+}

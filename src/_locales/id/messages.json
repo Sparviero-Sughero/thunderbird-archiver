@@ -1,0 +1,89 @@
+﻿{
+    "extensionName":  {
+                          "message":  "Arsip Otomatis"
+                      },
+    "extensionDescription":  {
+                                 "message":  "Mengarsipkan pesan lama menggunakan tindakan Arsip yang dikonfigurasikan Thunderbird."
+                             },
+    "actionTitle":  {
+                        "message":  "Arsipkan pesan lama"
+                    },
+    "pageTitle":  {
+                      "message":  "Pengaturan Arsip Otomatis"
+                  },
+    "heading":  {
+                    "message":  "Arsip Otomatis"
+                },
+    "intro":  {
+                  "message":  "Sekali sehari, arsipkan pesan yang lebih tua dari usia yang dipilih menggunakan pengaturan Arsip Thunderbird setiap akun."
+              },
+    "daysLegend":  {
+                       "message":  "hari"
+                   },
+    "twoMonths":  {
+                      "message":  "2 bulan (60 hari)"
+                  },
+    "sixMonths":  {
+                      "message":  "6 bulan (180 hari)"
+                  },
+    "oneYear":  {
+                    "message":  "1 tahun (365 hari)"
+                },
+    "customValue":  {
+                        "message":  "Nilai khusus"
+                    },
+    "daysUnit":  {
+                     "message":  "hari"
+                 },
+    "accountsLegend":  {
+                           "message":  "Pilih akun"
+                       },
+    "loadingAccounts":  {
+                            "message":  "Memuat akunâ€¦"
+                        },
+    "cleanupLegend":  {
+                          "message":  "Pembersihan"
+                      },
+    "deleteSpamTrash":  {
+                            "message":  "Hapus email lama di Spam dan Sampah"
+                        },
+    "deleteWarning":  {
+                          "message":  "Pesan yang lebih tua dari usia yang dipilih akan dihapus secara permanen dan tidak dapat dipulihkan."
+                      },
+    "saveButton":  {
+                       "message":  "Menyimpan"
+                   },
+    "runButton":  {
+                      "message":  "Arsipkan sekarang"
+                  },
+    "exclusionsTitle":  {
+                            "message":  "Pengecualian pengarsipan:"
+                        },
+    "exclusionsText":  {
+                           "message":  "Arsip dan subfoldernya, Sampah, Sampah, Draf, Templat, dan Kotak Keluar. Spam dan Sampah hanya dibersihkan jika opsi di atas diaktifkan."
+                       },
+    "invalidCustomDays":  {
+                              "message":  "Masukkan nilai khusus minimal 1 hari."
+                          },
+    "noAccounts":  {
+                       "message":  "Tidak ada akun email yang tersedia."
+                   },
+    "settingsSaved":  {
+                          "message":  "Pengaturan disimpan."
+                      },
+    "archivingStatus":  {
+                            "message":  "Mengarsipkan pesan lamaâ€¦ Biarkan Thunderbird tetap terbuka."
+                        },
+    "selectAccountError":  {
+                               "message":  "Pilih setidaknya satu akun."
+                           },
+    "lastRunStatus":  {
+                          "message":  "Terakhir dijalankan: $1 â€” $2 diarsipkan, $3 dihapus."
+                      },
+    "runResult":  {
+                      "message":  "$1 pesan diarsipkan, $2 dihapus secara permanen."
+                  },
+    "folderErrors":  {
+                         "message":  "Folder $1 tidak dapat diproses."
+                     }
+}

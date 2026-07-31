@@ -1,0 +1,89 @@
+﻿{
+    "extensionName":  {
+                          "message":  "자동 보관"
+                      },
+    "extensionDescription":  {
+                                 "message":  "Thunderbird의 구성된 보관 작업을 사용하여 오래된 메시지를 보관합니다."
+                             },
+    "actionTitle":  {
+                        "message":  "오래된 메시지 보관"
+                    },
+    "pageTitle":  {
+                      "message":  "자동 보관 설정"
+                  },
+    "heading":  {
+                    "message":  "자동 보관"
+                },
+    "intro":  {
+                  "message":  "하루에 한 번 각 계정의 Thunderbird 보관 설정을 사용하여 선택한 연령보다 오래된 메시지를 보관합니다."
+              },
+    "daysLegend":  {
+                       "message":  "일"
+                   },
+    "twoMonths":  {
+                      "message":  "2개월(60일)"
+                  },
+    "sixMonths":  {
+                      "message":  "6개월(180일)"
+                  },
+    "oneYear":  {
+                    "message":  "1년(365일)"
+                },
+    "customValue":  {
+                        "message":  "맞춤 값"
+                    },
+    "daysUnit":  {
+                     "message":  "일"
+                 },
+    "accountsLegend":  {
+                           "message":  "계정 선택"
+                       },
+    "loadingAccounts":  {
+                            "message":  "계정 로드 중…"
+                        },
+    "cleanupLegend":  {
+                          "message":  "정리"
+                      },
+    "deleteSpamTrash":  {
+                            "message":  "스팸 및 휴지통에서 오래된 이메일 삭제"
+                        },
+    "deleteWarning":  {
+                          "message":  "선택한 기간보다 오래된 메시지는 영구적으로 삭제되며 복원할 수 없습니다."
+                      },
+    "saveButton":  {
+                       "message":  "저장"
+                   },
+    "runButton":  {
+                      "message":  "지금 보관"
+                  },
+    "exclusionsTitle":  {
+                            "message":  "보관 제외:"
+                        },
+    "exclusionsText":  {
+                           "message":  "아카이브 및 해당 하위 폴더, 휴지통, 정크, 임시 보관함, 템플릿 및 보낼 편지함. 스팸 및 휴지통은 위 옵션이 활성화된 경우에만 정리됩니다."
+                       },
+    "invalidCustomDays":  {
+                              "message":  "1일 이상의 맞춤 값을 입력하세요."
+                          },
+    "noAccounts":  {
+                       "message":  "사용 가능한 메일 계정이 없습니다."
+                   },
+    "settingsSaved":  {
+                          "message":  "설정이 저장되었습니다."
+                      },
+    "archivingStatus":  {
+                            "message":  "오래된 메시지 보관... Thunderbird를 열어두세요."
+                        },
+    "selectAccountError":  {
+                               "message":  "계정을 하나 이상 선택하세요."
+                           },
+    "lastRunStatus":  {
+                          "message":  "마지막 실행: $1 – $2 보관됨, $3 삭제됨."
+                      },
+    "runResult":  {
+                      "message":  "$1 메시지는 보관되었으며 $2 메시지는 영구적으로 삭제되었습니다."
+                  },
+    "folderErrors":  {
+                         "message":  "$1 폴더를 처리할 수 없습니다."
+                     }
+}

@@ -1,0 +1,42 @@
+:root {
+  color-scheme: light dark;
+  font: message-box;
+}
+
+body {
+  margin: 0;
+  color: CanvasText;
+  background: Canvas;
+}
+
+main {
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 32px 24px 48px;
+}
+
+h1 { margin: 0 0 8px; font-size: 1.8rem; }
+.intro { margin: 0 0 28px; color: GrayText; line-height: 1.5; }
+
+fieldset {
+  margin: 0 0 22px;
+  padding: 18px;
+  border: 1px solid color-mix(in srgb, CanvasText 25%, transparent);
+  border-radius: 8px;
+}
+
+legend { padding: 0 8px; font-weight: 600; }
+label { display: block; margin: 10px 0; }
+.custom-row { display: flex; align-items: center; gap: 8px; }
+#custom-days { width: 90px; }
+.accounts label { padding: 5px 0; }
+.account-type { margin-left: 6px; color: GrayText; font-size: .9em; }
+
+.actions { display: flex; gap: 10px; }
+button, input[type="number"] { font: inherit; }
+button { padding: 8px 16px; }
+.primary { font-weight: 600; }
+.status { min-height: 1.5em; margin-top: 18px; }
+.status.error { color: #c22; }
+.warning { margin: 8px 0 0 24px; color: #b44; line-height: 1.4; }
+.note { margin-top: 24px; padding: 14px; border-radius: 6px; background: color-mix(in srgb, CanvasText 7%, Canvas); line-height: 1.45; }

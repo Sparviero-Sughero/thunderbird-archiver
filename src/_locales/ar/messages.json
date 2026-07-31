@@ -1,0 +1,89 @@
+﻿{
+    "extensionName":  {
+                          "message":  "الأرشفة التلقائية"
+                      },
+    "extensionDescription":  {
+                                 "message":  "أرشفة الرسائل القديمة باستخدام إجراء الأرشفة الذي تم تكوينه في Thunderbird."
+                             },
+    "actionTitle":  {
+                        "message":  "أرشفة الرسائل القديمة"
+                    },
+    "pageTitle":  {
+                      "message":  "إعدادات الأرشفة التلقائية"
+                  },
+    "heading":  {
+                    "message":  "الأرشفة التلقائية"
+                },
+    "intro":  {
+                  "message":  "مرة واحدة يوميًا، يمكنك أرشفة الرسائل الأقدم من العمر المحدد باستخدام إعدادات أرشيف Thunderbird لكل حساب."
+              },
+    "daysLegend":  {
+                       "message":  "أيام"
+                   },
+    "twoMonths":  {
+                      "message":  "شهرين (60 يومًا)"
+                  },
+    "sixMonths":  {
+                      "message":  "6 أشهر (180 يومًا)"
+                  },
+    "oneYear":  {
+                    "message":  "سنة واحدة (365 يومًا)"
+                },
+    "customValue":  {
+                        "message":  "قيمة مخصصة"
+                    },
+    "daysUnit":  {
+                     "message":  "أيام"
+                 },
+    "accountsLegend":  {
+                           "message":  "حدد الحسابات"
+                       },
+    "loadingAccounts":  {
+                            "message":  "جاري تحميل الحسابات..."
+                        },
+    "cleanupLegend":  {
+                          "message":  "تنظيف"
+                      },
+    "deleteSpamTrash":  {
+                            "message":  "حذف البريد الإلكتروني القديم في البريد العشوائي والمهملات"
+                        },
+    "deleteWarning":  {
+                          "message":  "سيتم حذف الرسائل الأقدم من العمر المحدد نهائيًا ولا يمكن استعادتها."
+                      },
+    "saveButton":  {
+                       "message":  "حفظ"
+                   },
+    "runButton":  {
+                      "message":  "أرشفة الآن"
+                  },
+    "exclusionsTitle":  {
+                            "message":  "استثناءات الأرشفة:"
+                        },
+    "exclusionsText":  {
+                           "message":  "الأرشيف ومجلداته الفرعية، سلة المهملات، البريد غير الهام، المسودات، القوالب وصندوق الصادر. يتم تنظيف البريد العشوائي والمهملات فقط عند تمكين الخيار أعلاه."
+                       },
+    "invalidCustomDays":  {
+                              "message":  "أدخل قيمة مخصصة ليوم واحد على الأقل."
+                          },
+    "noAccounts":  {
+                       "message":  "لا توجد حسابات بريدية متاحة."
+                   },
+    "settingsSaved":  {
+                          "message":  "تم حفظ الإعدادات."
+                      },
+    "archivingStatus":  {
+                            "message":  "أرشفة الرسائل القديمة... أبقِ Thunderbird مفتوحًا."
+                        },
+    "selectAccountError":  {
+                               "message":  "حدد حسابًا واحدًا على الأقل."
+                           },
+    "lastRunStatus":  {
+                          "message":  "آخر تشغيل: $1 — $2 تمت أرشفته، وتم حذف $3."
+                      },
+    "runResult":  {
+                      "message":  "$1 تمت أرشفة الرسائل، $2 تم حذفها نهائيًا."
+                  },
+    "folderErrors":  {
+                         "message":  "تعذرت معالجة مجلدات $1."
+                     }
+}

@@ -1,0 +1,89 @@
+﻿{
+    "extensionName":  {
+                          "message":  "Automatikus archiválás"
+                      },
+    "extensionDescription":  {
+                                 "message":  "Archiválja a régi üzeneteket a Thunderbird beállított archiválási műveletével."
+                             },
+    "actionTitle":  {
+                        "message":  "Archíválja a régi üzeneteket"
+                    },
+    "pageTitle":  {
+                      "message":  "Automatikus archiválási beállítások"
+                  },
+    "heading":  {
+                    "message":  "Automatikus archiválás"
+                },
+    "intro":  {
+                  "message":  "Naponta egyszer archiválja a kiválasztott kornál régebbi üzeneteket az egyes fiókok Thunderbird Archívum beállításaival."
+              },
+    "daysLegend":  {
+                       "message":  "Napok"
+                   },
+    "twoMonths":  {
+                      "message":  "2 hónap (60 nap)"
+                  },
+    "sixMonths":  {
+                      "message":  "6 hónap (180 nap)"
+                  },
+    "oneYear":  {
+                    "message":  "1 év (365 nap)"
+                },
+    "customValue":  {
+                        "message":  "Egyéni érték"
+                    },
+    "daysUnit":  {
+                     "message":  "napokon"
+                 },
+    "accountsLegend":  {
+                           "message":  "Válasszon fiókokat"
+                       },
+    "loadingAccounts":  {
+                            "message":  "Fiókok betöltése"
+                        },
+    "cleanupLegend":  {
+                          "message":  "Tisztítás"
+                      },
+    "deleteSpamTrash":  {
+                            "message":  "Törölje a régi e-maileket a Spam és a Kuka mappából"
+                        },
+    "deleteWarning":  {
+                          "message":  "A kiválasztott kornál régebbi üzenetek véglegesen törlődnek, és nem állíthatók vissza."
+                      },
+    "saveButton":  {
+                       "message":  "Mentés"
+                   },
+    "runButton":  {
+                      "message":  "Archivál most"
+                  },
+    "exclusionsTitle":  {
+                            "message":  "Archiválási kizárások:"
+                        },
+    "exclusionsText":  {
+                           "message":  "Archívum és almappái, Kuka, Levélszemét, Piszkozatok, Sablonok és Kimenő mappák. A spam és a Kuka csak akkor törlődik, ha a fenti opció engedélyezve van."
+                       },
+    "invalidCustomDays":  {
+                              "message":  "Adjon meg egy legalább 1 napos egyéni értéket."
+                          },
+    "noAccounts":  {
+                       "message":  "Nincsenek elérhető levelezési fiókok."
+                   },
+    "settingsSaved":  {
+                          "message":  "A beállítások mentve."
+                      },
+    "archivingStatus":  {
+                            "message":  "Régi üzenetek archiválása – Tartsa nyitva a Thunderbirdot."
+                        },
+    "selectAccountError":  {
+                               "message":  "Válasszon ki legalább egy fiókot."
+                           },
+    "lastRunStatus":  {
+                          "message":  "Utolsó futtatás: $1 â€” $2 archiválva, $3 törölve."
+                      },
+    "runResult":  {
+                      "message":  "$1 üzenet archiválva, $2 véglegesen törölve."
+                  },
+    "folderErrors":  {
+                         "message":  "$1 mappát nem sikerült feldolgozni."
+                     }
+}

@@ -1,0 +1,89 @@
+﻿{
+    "extensionName":  {
+                          "message":  "Arhivă automată"
+                      },
+    "extensionDescription":  {
+                                 "message":  "Arhivează mesajele vechi utilizând acțiunea Arhivare configurată de Thunderbird."
+                             },
+    "actionTitle":  {
+                        "message":  "Arhivați mesajele vechi"
+                    },
+    "pageTitle":  {
+                      "message":  "Setări pentru Arhivare automată"
+                  },
+    "heading":  {
+                    "message":  "Arhivă automată"
+                },
+    "intro":  {
+                  "message":  "O dată pe zi, arhivați mesajele mai vechi decât vârsta selectată folosind setările Thunderbird Archive ale fiecărui cont."
+              },
+    "daysLegend":  {
+                       "message":  "Zile"
+                   },
+    "twoMonths":  {
+                      "message":  "2 luni (60 de zile)"
+                  },
+    "sixMonths":  {
+                      "message":  "6 luni (180 zile)"
+                  },
+    "oneYear":  {
+                    "message":  "1 an (365 zile)"
+                },
+    "customValue":  {
+                        "message":  "Valoare personalizată"
+                    },
+    "daysUnit":  {
+                     "message":  "zile"
+                 },
+    "accountsLegend":  {
+                           "message":  "Selectați conturile"
+                       },
+    "loadingAccounts":  {
+                            "message":  "Se încarcă conturile..."
+                        },
+    "cleanupLegend":  {
+                          "message":  "Curățare"
+                      },
+    "deleteSpamTrash":  {
+                            "message":  "Ștergeți e-mailurile vechi din Spam și Coș de gunoi"
+                        },
+    "deleteWarning":  {
+                          "message":  "Mesajele mai vechi decât vârsta selectată vor fi șterse definitiv și nu pot fi restaurate."
+                      },
+    "saveButton":  {
+                       "message":  "Salvați"
+                   },
+    "runButton":  {
+                      "message":  "Arhivați acum"
+                  },
+    "exclusionsTitle":  {
+                            "message":  "Arhivarea excluderilor:"
+                        },
+    "exclusionsText":  {
+                           "message":  "Arhivă și subfolderele sale, Coș de gunoi, Junk, Ciorne, Șabloane și Căsuță de ieșire. Spamul și Coșul de gunoi sunt curățate numai atunci când opțiunea de mai sus este activată."
+                       },
+    "invalidCustomDays":  {
+                              "message":  "Introduceți o valoare personalizată de cel puțin 1 zi."
+                          },
+    "noAccounts":  {
+                       "message":  "Nu există conturi de e-mail disponibile."
+                   },
+    "settingsSaved":  {
+                          "message":  "Setările au fost salvate."
+                      },
+    "archivingStatus":  {
+                            "message":  "Arhivarea mesajelor vechi... Țineți Thunderbird deschis."
+                        },
+    "selectAccountError":  {
+                               "message":  "Selectați cel puțin un cont."
+                           },
+    "lastRunStatus":  {
+                          "message":  "Ultima rulare: $1 – $2 arhivat, $3 șters."
+                      },
+    "runResult":  {
+                      "message":  "$1 mesaje arhivate, $2 șterse definitiv."
+                  },
+    "folderErrors":  {
+                         "message":  "$1 dosare nu au putut fi procesate."
+                     }
+}

@@ -1,0 +1,89 @@
+﻿{
+    "extensionName":  {
+                          "message":  "Archif Auto"
+                      },
+    "extensionDescription":  {
+                                 "message":  "Archifo hen negeseuon gan ddefnyddio gweithred Archif wedi\u0027i ffurfweddu gan Thunderbird."
+                             },
+    "actionTitle":  {
+                        "message":  "Archifo hen negeseuon"
+                    },
+    "pageTitle":  {
+                      "message":  "Gosodiadau Archif Auto"
+                  },
+    "heading":  {
+                    "message":  "Archif Auto"
+                },
+    "intro":  {
+                  "message":  "Unwaith y dydd, archifwch negeseuon sy\u0027n hŷn na\u0027r oedran a ddewiswyd gan ddefnyddio gosodiadau Archif Thunderbird pob cyfrif."
+              },
+    "daysLegend":  {
+                       "message":  "Dyddiau"
+                   },
+    "twoMonths":  {
+                      "message":  "2 fis (60 diwrnod)"
+                  },
+    "sixMonths":  {
+                      "message":  "6 mis (180 diwrnod)"
+                  },
+    "oneYear":  {
+                    "message":  "1 flwyddyn (365 diwrnod)"
+                },
+    "customValue":  {
+                        "message":  "Gwerth personol"
+                    },
+    "daysUnit":  {
+                     "message":  "dyddiau"
+                 },
+    "accountsLegend":  {
+                           "message":  "Dewiswch gyfrifon"
+                       },
+    "loadingAccounts":  {
+                            "message":  "Wrthi\u0027n llwytho cyfrifon"
+                        },
+    "cleanupLegend":  {
+                          "message":  "Glanhau"
+                      },
+    "deleteSpamTrash":  {
+                            "message":  "Dileu hen e-bost yn Sbam a Sbwriel"
+                        },
+    "deleteWarning":  {
+                          "message":  "Bydd negeseuon sy\u0027n hŷn na\u0027r oedran a ddewiswyd yn cael eu dileu\u0027n barhaol ac ni ellir eu hadfer."
+                      },
+    "saveButton":  {
+                       "message":  "Arbed"
+                   },
+    "runButton":  {
+                      "message":  "Archif nawr"
+                  },
+    "exclusionsTitle":  {
+                            "message":  "Gwaharddiadau archifo:"
+                        },
+    "exclusionsText":  {
+                           "message":  "Archif a\u0027i is-ffolderi, Sbwriel, Sothach, Drafftiau, Templedi a Blwch Allan. Dim ond pan fydd yr opsiwn uchod wedi\u0027i alluogi y caiff Sbam a Sbwriel eu glanhau."
+                       },
+    "invalidCustomDays":  {
+                              "message":  "Rhowch werth arferol o 1 diwrnod o leiaf."
+                          },
+    "noAccounts":  {
+                       "message":  "Dim cyfrifon post ar gael."
+                   },
+    "settingsSaved":  {
+                          "message":  "Gosodiadau wedi\u0027u cadw."
+                      },
+    "archivingStatus":  {
+                            "message":  "Archifo hen negeseuon â€¦ Cadwch Thunderbird ar agor."
+                        },
+    "selectAccountError":  {
+                               "message":  "Dewiswch o leiaf un cyfrif."
+                           },
+    "lastRunStatus":  {
+                          "message":  "Rhedeg olaf: $1 â€” $2 wedi\u0027i harchifo, $3 wedi\u0027i ddileu."
+                      },
+    "runResult":  {
+                      "message":  "$1 neges wedi\u0027i harchifo, $2 wedi\u0027u dileu\u0027n barhaol."
+                  },
+    "folderErrors":  {
+                         "message":  "Nid oedd modd prosesu $1 ffolderi."
+                     }
+}

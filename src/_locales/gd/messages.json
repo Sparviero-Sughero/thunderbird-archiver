@@ -1,0 +1,89 @@
+﻿{
+    "extensionName":  {
+                          "message":  "Tasglann fèin-ghluasadach"
+                      },
+    "extensionDescription":  {
+                                 "message":  "Tasglann seann bhrathan a’ cleachdadh gnìomh Tasglann rèiteachaidh Thunderbird."
+                             },
+    "actionTitle":  {
+                        "message":  "Tasglann seann teachdaireachdan"
+                    },
+    "pageTitle":  {
+                      "message":  "Roghainnean Tasglann Auto"
+                  },
+    "heading":  {
+                    "message":  "Tasglann fèin-ghluasadach"
+                },
+    "intro":  {
+                  "message":  "Aon uair san latha, tasglann teachdaireachdan nas sine na an aois a chaidh a thaghadh a’ cleachdadh roghainnean Tasglann Thunderbird gach cunntas."
+              },
+    "daysLegend":  {
+                       "message":  "Làithean"
+                   },
+    "twoMonths":  {
+                      "message":  "2 mìosan (60 latha)"
+                  },
+    "sixMonths":  {
+                      "message":  "6 mìosan (180 latha)"
+                  },
+    "oneYear":  {
+                    "message":  "1 bliadhna (365 làithean)"
+                },
+    "customValue":  {
+                        "message":  "Luach gnàthaichte"
+                    },
+    "daysUnit":  {
+                     "message":  "làithean"
+                 },
+    "accountsLegend":  {
+                           "message":  "Tagh cunntasan"
+                       },
+    "loadingAccounts":  {
+                            "message":  "A luchdadh a-nuas cunntair"
+                        },
+    "cleanupLegend":  {
+                          "message":  "Sgioblaich suas"
+                      },
+    "deleteSpamTrash":  {
+                            "message":  "Sguab às seann phost-d ann an Spam is Sgudal"
+                        },
+    "deleteWarning":  {
+                          "message":  "Thèid teachdaireachdan nas sine na an aois a chaidh a thaghadh a dhubhadh às gu buan agus cha ghabh an toirt air ais."
+                      },
+    "saveButton":  {
+                       "message":  "Sàbhail"
+                   },
+    "runButton":  {
+                      "message":  "Tasglann a-nis"
+                  },
+    "exclusionsTitle":  {
+                            "message":  "Eas-aontachadh tasglann:"
+                        },
+    "exclusionsText":  {
+                           "message":  "Tasglann agus na fo-phasganan aige, Sgudal, sgudal, dreachan, teamplaidean agus bogsa a-mach. Cha tèid spam agus sgudal a ghlanadh ach nuair a tha an roghainn gu h-àrd air a chomasachadh."
+                       },
+    "invalidCustomDays":  {
+                              "message":  "Cuir a-steach luach gnàthaichte co-dhiù 1 latha."
+                          },
+    "noAccounts":  {
+                       "message":  "Chan eil cunntasan puist ri fhaighinn."
+                   },
+    "settingsSaved":  {
+                          "message":  "Roghainnean air an sàbhaladh."
+                      },
+    "archivingStatus":  {
+                            "message":  "A\u0027 tasgadh seann theachdaireachdan - cùm Thunderbird fosgailte."
+                        },
+    "selectAccountError":  {
+                               "message":  "Tagh co-dhiù aon chunntas."
+                           },
+    "lastRunStatus":  {
+                          "message":  "An ruith mu dheireadh: $1 â€” $2 air a thasgadh, $3 air a sguabadh às."
+                      },
+    "runResult":  {
+                      "message":  "$1 brathan air an tasgadh, $2 air an sguabadh às gu buan."
+                  },
+    "folderErrors":  {
+                         "message":  "$1 cha b\u0027 urrainn dhuinn pasganan a phròiseasadh."
+                     }
+}

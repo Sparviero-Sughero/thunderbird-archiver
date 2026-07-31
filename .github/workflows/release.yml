@@ -1,0 +1,43 @@
+name: Release XPI
+
+on:
+  push:
+    tags:
+      - "v*"
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Read extension version
+        id: version
+        shell: bash
+        run: |
+          version=$(python3 -c "import json; print(json.load(open('src/manifest.json', encoding='utf-8'))['version'])")
+          if [ "v$version" != "${GITHUB_REF_NAME}" ]; then
+            echo "Tag ${GITHUB_REF_NAME} does not match manifest version $version" >&2
+            exit 1
+          fi
+          echo "version=$version" >> "$GITHUB_OUTPUT"
+
+      - name: Build XPI
+        shell: bash
+        run: |
+          cd src
+          zip -r "../thunderbird-archiver-${{ steps.version.outputs.version }}.xpi" .
+
+      - name: Publish GitHub release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          gh release create "${GITHUB_REF_NAME}" \
+            "thunderbird-archiver-${{ steps.version.outputs.version }}.xpi" \
+            --title "Thunderbird Archiver ${{ steps.version.outputs.version }}" \
+            --generate-notes

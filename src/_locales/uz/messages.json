@@ -1,0 +1,89 @@
+﻿{
+    "extensionName":  {
+                          "message":  "Avtomatik arxiv"
+                      },
+    "extensionDescription":  {
+                                 "message":  "Thunderbird-ning sozlangan Arxiv harakati yordamida eski xabarlarni arxivlaydi."
+                             },
+    "actionTitle":  {
+                        "message":  "Eski xabarlarni arxivlash"
+                    },
+    "pageTitle":  {
+                      "message":  "Avtomatik arxiv sozlamalari"
+                  },
+    "heading":  {
+                    "message":  "Avtomatik arxiv"
+                },
+    "intro":  {
+                  "message":  "Kuniga bir marta, har bir hisobning Thunderbird Arxiv sozlamalari yordamida tanlangan yoshdan kattaroq xabarlarni arxivlang."
+              },
+    "daysLegend":  {
+                       "message":  "kunlar"
+                   },
+    "twoMonths":  {
+                      "message":  "2 oy (60 kun)"
+                  },
+    "sixMonths":  {
+                      "message":  "6 oy (180 kun)"
+                  },
+    "oneYear":  {
+                    "message":  "1 yil (365 kun)"
+                },
+    "customValue":  {
+                        "message":  "Maxsus qiymat"
+                    },
+    "daysUnit":  {
+                     "message":  "kunlar"
+                 },
+    "accountsLegend":  {
+                           "message":  "Hisoblarni tanlang"
+                       },
+    "loadingAccounts":  {
+                            "message":  "Hisoblar yuklanmoqdaâ€¦"
+                        },
+    "cleanupLegend":  {
+                          "message":  "Tozalash"
+                      },
+    "deleteSpamTrash":  {
+                            "message":  "Spam va Chiqindidagi eski xatlarni oʻchirib tashlang"
+                        },
+    "deleteWarning":  {
+                          "message":  "Tanlangan yoshdan kattaroq xabarlar butunlay oʻchiriladi va ularni qayta tiklab boʻlmaydi."
+                      },
+    "saveButton":  {
+                       "message":  "Saqlash"
+                   },
+    "runButton":  {
+                      "message":  "Hozir arxivlash"
+                  },
+    "exclusionsTitle":  {
+                            "message":  "Arxivlashdan istisnolar:"
+                        },
+    "exclusionsText":  {
+                           "message":  "Arxiv va uning pastki papkalari, axlat qutisi, keraksiz narsalar, qoralamalar, andozalar va chiqish qutisi. Spam va axlat qutisi faqat yuqoridagi parametr yoqilganda tozalanadi."
+                       },
+    "invalidCustomDays":  {
+                              "message":  "Kamida 1 kunlik maxsus qiymatni kiriting."
+                          },
+    "noAccounts":  {
+                       "message":  "Pochta hisoblari mavjud emas."
+                   },
+    "settingsSaved":  {
+                          "message":  "Sozlamalar saqlandi."
+                      },
+    "archivingStatus":  {
+                            "message":  "Eski xabarlarni arxivlashâ€¦ Thunderbird dasturini ochiq tuting."
+                        },
+    "selectAccountError":  {
+                               "message":  "Kamida bitta hisobni tanlang."
+                           },
+    "lastRunStatus":  {
+                          "message":  "Oxirgi ishga tushirish: $1 â€” $2 arxivlandi, $3 o‘chirildi."
+                      },
+    "runResult":  {
+                      "message":  "$1 xabarlar arxivlandi, $2 butunlay o‘chirib tashlandi."
+                  },
+    "folderErrors":  {
+                         "message":  "$1 jildlarga ishlov berib bo‘lmadi."
+                     }
+}

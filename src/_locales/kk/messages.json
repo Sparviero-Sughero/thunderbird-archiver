@@ -1,0 +1,89 @@
+﻿{
+    "extensionName":  {
+                          "message":  "Автоматты мұрағат"
+                      },
+    "extensionDescription":  {
+                                 "message":  "Thunderbird конфигурацияланған Архив әрекеті арқылы ескі хабарларды мұрағаттайды."
+                             },
+    "actionTitle":  {
+                        "message":  "Ескі хабарламаларды мұрағаттау"
+                    },
+    "pageTitle":  {
+                      "message":  "Автоматты мұрағат параметрлері"
+                  },
+    "heading":  {
+                    "message":  "Автоматты мұрағат"
+                },
+    "intro":  {
+                  "message":  "Таңдалған жастан асқан хабарларды күніне бір рет әрбір тіркелгінің Thunderbird Archive параметрлері арқылы мұрағаттау."
+              },
+    "daysLegend":  {
+                       "message":  "Күндер"
+                   },
+    "twoMonths":  {
+                      "message":  "2 ай (60 күн)"
+                  },
+    "sixMonths":  {
+                      "message":  "6 ай (180 күн)"
+                  },
+    "oneYear":  {
+                    "message":  "1 жыл (365 күн)"
+                },
+    "customValue":  {
+                        "message":  "Арнаулы мән"
+                    },
+    "daysUnit":  {
+                     "message":  "күндер"
+                 },
+    "accountsLegend":  {
+                           "message":  "Есептік жазбаларды таңдаңыз"
+                       },
+    "loadingAccounts":  {
+                            "message":  "Есептік жазбалар жүктелуде…"
+                        },
+    "cleanupLegend":  {
+                          "message":  "Тазалау"
+                      },
+    "deleteSpamTrash":  {
+                            "message":  "Спам және себеттердегі ескі электрондық поштаны жойыңыз"
+                        },
+    "deleteWarning":  {
+                          "message":  "Таңдалған жастан асқан хабарлар біржола жойылады және оларды қалпына келтіру мүмкін емес."
+                      },
+    "saveButton":  {
+                       "message":  "Сақтау"
+                   },
+    "runButton":  {
+                      "message":  "Қазір мұрағат"
+                  },
+    "exclusionsTitle":  {
+                            "message":  "Мұрағаттау ерекшеліктер:"
+                        },
+    "exclusionsText":  {
+                           "message":  "Мұрағат және оның ішкі қалталары, қоқыс, қалаусыз, нобайлар, үлгілер және шығыс жәшігі. Спам және қоқыс жоғарыдағы опция қосылғанда ғана тазаланады."
+                       },
+    "invalidCustomDays":  {
+                              "message":  "Кемінде 1 күндік теңшелетін мәнді енгізіңіз."
+                          },
+    "noAccounts":  {
+                       "message":  "Пошта тіркелгілері жоқ."
+                   },
+    "settingsSaved":  {
+                          "message":  "Параметрлер сақталды."
+                      },
+    "archivingStatus":  {
+                            "message":  "Ескі хабарларды мұрағаттау… Thunderbird қолданбасын ашық ұстаңыз."
+                        },
+    "selectAccountError":  {
+                               "message":  "Кем дегенде бір есептік жазбаны таңдаңыз."
+                           },
+    "lastRunStatus":  {
+                          "message":  "Соңғы орындалу: $1 – $2 мұрағатталды, $3 жойылды."
+                      },
+    "runResult":  {
+                      "message":  "$1 хабарлары мұрағатталды, $2 біржола жойылды."
+                  },
+    "folderErrors":  {
+                         "message":  "$1 қалталарды өңдеу мүмкін болмады."
+                     }
+}

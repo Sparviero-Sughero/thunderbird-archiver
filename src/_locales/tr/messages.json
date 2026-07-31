@@ -1,0 +1,89 @@
+﻿{
+    "extensionName":  {
+                          "message":  "Otomatik Arşiv"
+                      },
+    "extensionDescription":  {
+                                 "message":  "Thunderbird\u0027ün yapılandırılmış Arşivleme eylemini kullanarak eski mesajları arşivler."
+                             },
+    "actionTitle":  {
+                        "message":  "Eski mesajları arşivle"
+                    },
+    "pageTitle":  {
+                      "message":  "Otomatik Arşiv ayarları"
+                  },
+    "heading":  {
+                    "message":  "Otomatik Arşiv"
+                },
+    "intro":  {
+                  "message":  "Günde bir kez, her hesabın Thunderbird Arşiv ayarlarını kullanarak seçilen yaştan daha eski olan iletileri arşivleyin."
+              },
+    "daysLegend":  {
+                       "message":  "Günler"
+                   },
+    "twoMonths":  {
+                      "message":  "2 ay (60 gün)"
+                  },
+    "sixMonths":  {
+                      "message":  "6 ay (180 gün)"
+                  },
+    "oneYear":  {
+                    "message":  "1 yıl (365 gün)"
+                },
+    "customValue":  {
+                        "message":  "Özel değer"
+                    },
+    "daysUnit":  {
+                     "message":  "günler"
+                 },
+    "accountsLegend":  {
+                           "message":  "Hesapları seçin"
+                       },
+    "loadingAccounts":  {
+                            "message":  "Hesaplar yükleniyor…"
+                        },
+    "cleanupLegend":  {
+                          "message":  "Temizleme"
+                      },
+    "deleteSpamTrash":  {
+                            "message":  "Spam ve Çöp Kutusu\u0027ndaki eski e-postayı silin"
+                        },
+    "deleteWarning":  {
+                          "message":  "Seçilen yaştan daha eski olan mesajlar kalıcı olarak silinecek ve geri yüklenemeyecektir."
+                      },
+    "saveButton":  {
+                       "message":  "Kaydet"
+                   },
+    "runButton":  {
+                      "message":  "Şimdi arşivle"
+                  },
+    "exclusionsTitle":  {
+                            "message":  "Hariç tutulanların arşivlenmesi:"
+                        },
+    "exclusionsText":  {
+                           "message":  "Arşiv ve alt klasörleri, Çöp Kutusu, Önemsiz, Taslaklar, Şablonlar ve Giden Kutusu. Spam ve Çöp Kutusu yalnızca yukarıdaki seçenek etkinleştirildiğinde temizlenir."
+                       },
+    "invalidCustomDays":  {
+                              "message":  "En az 1 günlük özel bir değer girin."
+                          },
+    "noAccounts":  {
+                       "message":  "Kullanılabilir posta hesabı yok."
+                   },
+    "settingsSaved":  {
+                          "message":  "Ayarlar kaydedildi."
+                      },
+    "archivingStatus":  {
+                            "message":  "Eski mesajların arşivlenmesi... Thunderbird\u0027ü açık tutun."
+                        },
+    "selectAccountError":  {
+                               "message":  "En az bir hesap seçin."
+                           },
+    "lastRunStatus":  {
+                          "message":  "Son çalıştırma: $1 — $2 arşivlendi, $3 silindi."
+                      },
+    "runResult":  {
+                      "message":  "$1 ileti arşivlendi, $2 kalıcı olarak silindi."
+                  },
+    "folderErrors":  {
+                         "message":  "$1 klasörleri işlenemedi."
+                     }
+}

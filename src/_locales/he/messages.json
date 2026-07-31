@@ -1,0 +1,89 @@
+﻿{
+    "extensionName":  {
+                          "message":  "ארכיון אוטומטי"
+                      },
+    "extensionDescription":  {
+                                 "message":  "ארכיון הודעות ישנות באמצעות פעולת הארכיון המוגדרת של Thunderbird."
+                             },
+    "actionTitle":  {
+                        "message":  "ארכיון הודעות ישנות"
+                    },
+    "pageTitle":  {
+                      "message":  "הגדרות ארכיון אוטומטי"
+                  },
+    "heading":  {
+                    "message":  "ארכיון אוטומטי"
+                },
+    "intro":  {
+                  "message":  "פעם ביום, שמור הודעות עתיקות יותר מהגיל שנבחר באמצעות הגדרות הארכיון של Thunderbird של כל חשבון."
+              },
+    "daysLegend":  {
+                       "message":  "ימים"
+                   },
+    "twoMonths":  {
+                      "message":  "חודשיים (60 ימים)"
+                  },
+    "sixMonths":  {
+                      "message":  "6 חודשים (180 ימים)"
+                  },
+    "oneYear":  {
+                    "message":  "שנה אחת (365 ימים)"
+                },
+    "customValue":  {
+                        "message":  "ערך מותאם אישית"
+                    },
+    "daysUnit":  {
+                     "message":  "ימים"
+                 },
+    "accountsLegend":  {
+                           "message":  "בחר חשבונות"
+                       },
+    "loadingAccounts":  {
+                            "message":  "טוען חשבונות..."
+                        },
+    "cleanupLegend":  {
+                          "message":  "ניקיון"
+                      },
+    "deleteSpamTrash":  {
+                            "message":  "מחק אימייל ישן בספאם ובאשפה"
+                        },
+    "deleteWarning":  {
+                          "message":  "הודעות מעל הגיל שנבחר יימחקו לצמיתות ולא ניתן לשחזר אותן."
+                      },
+    "saveButton":  {
+                       "message":  "שמור"
+                   },
+    "runButton":  {
+                      "message":  "ארכיון עכשיו"
+                  },
+    "exclusionsTitle":  {
+                            "message":  "אי הכללות בארכיון:"
+                        },
+    "exclusionsText":  {
+                           "message":  "ארכיון ותיקיות המשנה שלו, אשפה, זבל, טיוטות, תבניות ותיבת דואר יוצא. ספאם ואשפה מנוקים רק כאשר האפשרות שלמעלה מופעלת."
+                       },
+    "invalidCustomDays":  {
+                              "message":  "הזן ערך מותאם אישית של יום אחד לפחות."
+                          },
+    "noAccounts":  {
+                       "message":  "אין חשבונות דואר זמינים."
+                   },
+    "settingsSaved":  {
+                          "message":  "ההגדרות נשמרו."
+                      },
+    "archivingStatus":  {
+                            "message":  "אחסון הודעות ישנות לארכיון... השאר את Thunderbird פתוח."
+                        },
+    "selectAccountError":  {
+                               "message":  "בחר חשבון אחד לפחות."
+                           },
+    "lastRunStatus":  {
+                          "message":  "ריצה אחרונה: $1 - $2 הועבר לארכיון, $3 נמחק."
+                      },
+    "runResult":  {
+                      "message":  "$1 הודעות הועברו לארכיון, $2 נמחקו לצמיתות."
+                  },
+    "folderErrors":  {
+                         "message":  "לא ניתן היה לעבד את $1 תיקיות."
+                     }
+}

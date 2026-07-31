@@ -1,0 +1,89 @@
+﻿{
+    "extensionName":  {
+                          "message":  "Autoarkiv"
+                      },
+    "extensionDescription":  {
+                                 "message":  "Arkiverer gamle meldinger ved hjelp av Thunderbirds konfigurerte Arkiv-handling."
+                             },
+    "actionTitle":  {
+                        "message":  "Arkiver gamle meldinger"
+                    },
+    "pageTitle":  {
+                      "message":  "Innstillinger for automatisk arkivering"
+                  },
+    "heading":  {
+                    "message":  "Autoarkiv"
+                },
+    "intro":  {
+                  "message":  "En gang om dagen, arkiver meldinger som er eldre enn den valgte alderen ved å bruke hver kontos Thunderbird Archive-innstillinger."
+              },
+    "daysLegend":  {
+                       "message":  "Dager"
+                   },
+    "twoMonths":  {
+                      "message":  "2 måneder (60 dager)"
+                  },
+    "sixMonths":  {
+                      "message":  "6 måneder (180 dager)"
+                  },
+    "oneYear":  {
+                    "message":  "1 år (365 dager)"
+                },
+    "customValue":  {
+                        "message":  "Egendefinert verdi"
+                    },
+    "daysUnit":  {
+                     "message":  "dager"
+                 },
+    "accountsLegend":  {
+                           "message":  "Velg kontoer"
+                       },
+    "loadingAccounts":  {
+                            "message":  "Laster inn kontoer..."
+                        },
+    "cleanupLegend":  {
+                          "message":  "Opprydding"
+                      },
+    "deleteSpamTrash":  {
+                            "message":  "Slett gammel e-post i Spam og Papirkurv"
+                        },
+    "deleteWarning":  {
+                          "message":  "Meldinger som er eldre enn den valgte alderen vil bli slettet permanent og kan ikke gjenopprettes."
+                      },
+    "saveButton":  {
+                       "message":  "Lagre"
+                   },
+    "runButton":  {
+                      "message":  "Arkiver nå"
+                  },
+    "exclusionsTitle":  {
+                            "message":  "Arkivering av ekskluderinger:"
+                        },
+    "exclusionsText":  {
+                           "message":  "Arkiv og dets undermapper, papirkurv, søppelpost, utkast, maler og utboks. Søppelpost og papirkurv renses bare når alternativet ovenfor er aktivert."
+                       },
+    "invalidCustomDays":  {
+                              "message":  "Angi en egendefinert verdi på minst 1 dag."
+                          },
+    "noAccounts":  {
+                       "message":  "Ingen tilgjengelige e-postkontoer."
+                   },
+    "settingsSaved":  {
+                          "message":  "Innstillinger lagret."
+                      },
+    "archivingStatus":  {
+                            "message":  "Arkivering av gamle meldinger... Hold Thunderbird åpen."
+                        },
+    "selectAccountError":  {
+                               "message":  "Velg minst én konto."
+                           },
+    "lastRunStatus":  {
+                          "message":  "Siste kjøring: $1 â€” $2 arkivert, $3 slettet."
+                      },
+    "runResult":  {
+                      "message":  "$1 meldinger arkivert, $2 slettet permanent."
+                  },
+    "folderErrors":  {
+                         "message":  "$1 mapper kunne ikke behandles."
+                     }
+}

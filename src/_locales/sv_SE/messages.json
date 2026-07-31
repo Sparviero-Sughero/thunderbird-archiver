@@ -1,0 +1,89 @@
+﻿{
+    "extensionName":  {
+                          "message":  "Autoarkiv"
+                      },
+    "extensionDescription":  {
+                                 "message":  "Arkiverar gamla meddelanden med Thunderbirds konfigurerade Arkiv-åtgärd."
+                             },
+    "actionTitle":  {
+                        "message":  "Arkivera gamla meddelanden"
+                    },
+    "pageTitle":  {
+                      "message":  "Inställningar för automatisk arkivering"
+                  },
+    "heading":  {
+                    "message":  "Autoarkiv"
+                },
+    "intro":  {
+                  "message":  "En gång om dagen, arkivera meddelanden som är äldre än den valda åldern med hjälp av varje kontos Thunderbird Archive-inställningar."
+              },
+    "daysLegend":  {
+                       "message":  "dagar"
+                   },
+    "twoMonths":  {
+                      "message":  "2 månader (60 dagar)"
+                  },
+    "sixMonths":  {
+                      "message":  "6 månader (180 dagar)"
+                  },
+    "oneYear":  {
+                    "message":  "1 år (365 dagar)"
+                },
+    "customValue":  {
+                        "message":  "Anpassat värde"
+                    },
+    "daysUnit":  {
+                     "message":  "dagar"
+                 },
+    "accountsLegend":  {
+                           "message":  "Välj konton"
+                       },
+    "loadingAccounts":  {
+                            "message":  "Laddar konton..."
+                        },
+    "cleanupLegend":  {
+                          "message":  "Rengöring"
+                      },
+    "deleteSpamTrash":  {
+                            "message":  "Ta bort gammal e-post i skräppost och papperskorgen"
+                        },
+    "deleteWarning":  {
+                          "message":  "Meddelanden som är äldre än den valda åldern kommer att raderas permanent och kan inte återställas."
+                      },
+    "saveButton":  {
+                       "message":  "Spara"
+                   },
+    "runButton":  {
+                      "message":  "Arkivera nu"
+                  },
+    "exclusionsTitle":  {
+                            "message":  "Arkiveringsundantag:"
+                        },
+    "exclusionsText":  {
+                           "message":  "Arkiv och dess undermappar, Papperskorgen, Skräp, Utkast, Mallar och Utkorg. Skräppost och papperskorgen rensas endast när alternativet ovan är aktiverat."
+                       },
+    "invalidCustomDays":  {
+                              "message":  "Ange ett anpassat värde på minst 1 dag."
+                          },
+    "noAccounts":  {
+                       "message":  "Inga e-postkonton tillgängliga."
+                   },
+    "settingsSaved":  {
+                          "message":  "Inställningar sparade."
+                      },
+    "archivingStatus":  {
+                            "message":  "Arkivera gamla meddelanden… Håll Thunderbird öppen."
+                        },
+    "selectAccountError":  {
+                               "message":  "Välj minst ett konto."
+                           },
+    "lastRunStatus":  {
+                          "message":  "Senaste körningen: $1 â€” $2 arkiverad, $3 raderad."
+                      },
+    "runResult":  {
+                      "message":  "$1 meddelanden arkiverade, $2 raderade permanent."
+                  },
+    "folderErrors":  {
+                         "message":  "$1 mappar kunde inte bearbetas."
+                     }
+}

@@ -1,0 +1,89 @@
+﻿{
+    "extensionName":  {
+                          "message":  "Archivo automático"
+                      },
+    "extensionDescription":  {
+                                 "message":  "Archiva mensajes antiguos utilizando la acción Archivar configurada de Thunderbird."
+                             },
+    "actionTitle":  {
+                        "message":  "Archivar mensajes antiguos"
+                    },
+    "pageTitle":  {
+                      "message":  "Configuración de archivo automático"
+                  },
+    "heading":  {
+                    "message":  "Archivo automático"
+                },
+    "intro":  {
+                  "message":  "Una vez al día, archive los mensajes anteriores a la edad seleccionada utilizando la configuración de Archivo Thunderbird de cada cuenta."
+              },
+    "daysLegend":  {
+                       "message":  "dias"
+                   },
+    "twoMonths":  {
+                      "message":  "2 meses (60 días)"
+                  },
+    "sixMonths":  {
+                      "message":  "6 meses (180 días)"
+                  },
+    "oneYear":  {
+                    "message":  "1 año (365 días)"
+                },
+    "customValue":  {
+                        "message":  "Valor personalizado"
+                    },
+    "daysUnit":  {
+                     "message":  "dias"
+                 },
+    "accountsLegend":  {
+                           "message":  "Seleccionar cuentas"
+                       },
+    "loadingAccounts":  {
+                            "message":  "Cargando cuentas..."
+                        },
+    "cleanupLegend":  {
+                          "message":  "limpieza"
+                      },
+    "deleteSpamTrash":  {
+                            "message":  "Eliminar correo electrónico antiguo en Spam y Papelera"
+                        },
+    "deleteWarning":  {
+                          "message":  "Los mensajes anteriores a la edad seleccionada se eliminarán permanentemente y no se podrán restaurar."
+                      },
+    "saveButton":  {
+                       "message":  "Guardar"
+                   },
+    "runButton":  {
+                      "message":  "Archivar ahora"
+                  },
+    "exclusionsTitle":  {
+                            "message":  "Exclusiones de archivado:"
+                        },
+    "exclusionsText":  {
+                           "message":  "Archivo y sus subcarpetas, Papelera, Basura, Borradores, Plantillas y Bandeja de salida. El spam y la papelera se limpian sólo cuando la opción anterior está habilitada."
+                       },
+    "invalidCustomDays":  {
+                              "message":  "Introduzca un valor personalizado de al menos 1 día."
+                          },
+    "noAccounts":  {
+                       "message":  "No hay cuentas de correo disponibles."
+                   },
+    "settingsSaved":  {
+                          "message":  "Configuración guardada."
+                      },
+    "archivingStatus":  {
+                            "message":  "Archivar mensajes antiguos... Mantenga abierto Thunderbird."
+                        },
+    "selectAccountError":  {
+                               "message":  "Seleccione al menos una cuenta."
+                           },
+    "lastRunStatus":  {
+                          "message":  "Última ejecución: $1: $2 archivada, $3 eliminada."
+                      },
+    "runResult":  {
+                      "message":  "$1 mensajes archivados, $2 eliminados permanentemente."
+                  },
+    "folderErrors":  {
+                         "message":  "No se pudieron procesar $1 carpetas."
+                     }
+}

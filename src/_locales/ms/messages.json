@@ -1,0 +1,89 @@
+﻿{
+    "extensionName":  {
+                          "message":  "Arkib Auto"
+                      },
+    "extensionDescription":  {
+                                 "message":  "Mengarkibkan mesej lama menggunakan tindakan Arkib yang dikonfigurasikan Thunderbird."
+                             },
+    "actionTitle":  {
+                        "message":  "Arkibkan mesej lama"
+                    },
+    "pageTitle":  {
+                      "message":  "Tetapan Auto Arkib"
+                  },
+    "heading":  {
+                    "message":  "Arkib Auto"
+                },
+    "intro":  {
+                  "message":  "Sekali sehari, arkibkan mesej yang lebih lama daripada umur yang dipilih menggunakan tetapan Arkib Thunderbird setiap akaun."
+              },
+    "daysLegend":  {
+                       "message":  "hari-hari"
+                   },
+    "twoMonths":  {
+                      "message":  "2 bulan (60 hari)"
+                  },
+    "sixMonths":  {
+                      "message":  "6 bulan (180 hari)"
+                  },
+    "oneYear":  {
+                    "message":  "1 tahun (365 hari)"
+                },
+    "customValue":  {
+                        "message":  "Nilai tersuai"
+                    },
+    "daysUnit":  {
+                     "message":  "hari"
+                 },
+    "accountsLegend":  {
+                           "message":  "Pilih akaun"
+                       },
+    "loadingAccounts":  {
+                            "message":  "Memuatkan akaunâ€¦"
+                        },
+    "cleanupLegend":  {
+                          "message":  "Pembersihan"
+                      },
+    "deleteSpamTrash":  {
+                            "message":  "Padamkan e-mel lama dalam Spam dan Sampah"
+                        },
+    "deleteWarning":  {
+                          "message":  "Mesej yang lebih lama daripada umur yang dipilih akan dipadamkan secara kekal dan tidak boleh dipulihkan."
+                      },
+    "saveButton":  {
+                       "message":  "Jimat"
+                   },
+    "runButton":  {
+                      "message":  "Arkibkan sekarang"
+                  },
+    "exclusionsTitle":  {
+                            "message":  "Pengecualian mengarkib:"
+                        },
+    "exclusionsText":  {
+                           "message":  "Arkibkan dan subfoldernya, Sampah, Sampah, Draf, Templat dan Peti Keluar. Spam dan Sampah dibersihkan hanya apabila pilihan di atas didayakan."
+                       },
+    "invalidCustomDays":  {
+                              "message":  "Masukkan nilai tersuai sekurang-kurangnya 1 hari."
+                          },
+    "noAccounts":  {
+                       "message":  "Tiada akaun mel tersedia."
+                   },
+    "settingsSaved":  {
+                          "message":  "Tetapan disimpan."
+                      },
+    "archivingStatus":  {
+                            "message":  "Mengarkibkan mesej lamaâ€¦ Pastikan Thunderbird dibuka."
+                        },
+    "selectAccountError":  {
+                               "message":  "Pilih sekurang-kurangnya satu akaun."
+                           },
+    "lastRunStatus":  {
+                          "message":  "Larian terakhir: $1 â€” $2 diarkibkan, $3 dipadamkan."
+                      },
+    "runResult":  {
+                      "message":  "$1 mesej diarkibkan, $2 dipadamkan secara kekal."
+                  },
+    "folderErrors":  {
+                         "message":  "$1 folder tidak dapat diproses."
+                     }
+}

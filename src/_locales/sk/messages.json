@@ -1,0 +1,89 @@
+﻿{
+    "extensionName":  {
+                          "message":  "Auto Archiv"
+                      },
+    "extensionDescription":  {
+                                 "message":  "Archivuje staré správy pomocou Thunderbirdu nakonfigurovanej akcie Archivovať."
+                             },
+    "actionTitle":  {
+                        "message":  "Archivujte staré správy"
+                    },
+    "pageTitle":  {
+                      "message":  "Nastavenia automatickej archivácie"
+                  },
+    "heading":  {
+                    "message":  "Auto Archiv"
+                },
+    "intro":  {
+                  "message":  "Raz denne archivujte správy staršie ako zvolený vek pomocou nastavení archívu Thunderbird každého účtu."
+              },
+    "daysLegend":  {
+                       "message":  "dní"
+                   },
+    "twoMonths":  {
+                      "message":  "2 mesiace (60 dní)"
+                  },
+    "sixMonths":  {
+                      "message":  "6 mesiacov (180 dní)"
+                  },
+    "oneYear":  {
+                    "message":  "1 rok (365 dní)"
+                },
+    "customValue":  {
+                        "message":  "Vlastná hodnota"
+                    },
+    "daysUnit":  {
+                     "message":  "dní"
+                 },
+    "accountsLegend":  {
+                           "message":  "Vyberte účty"
+                       },
+    "loadingAccounts":  {
+                            "message":  "Načítavajú sa účty…"
+                        },
+    "cleanupLegend":  {
+                          "message":  "Upratovanie"
+                      },
+    "deleteSpamTrash":  {
+                            "message":  "Odstráňte starý e-mail v priečinku Spam a Kôš"
+                        },
+    "deleteWarning":  {
+                          "message":  "Správy staršie ako zvolený vek budú natrvalo odstránené a nebudú sa dať obnoviť."
+                      },
+    "saveButton":  {
+                       "message":  "Uložiť"
+                   },
+    "runButton":  {
+                      "message":  "Archivujte teraz"
+                  },
+    "exclusionsTitle":  {
+                            "message":  "Archivácia vylúčení:"
+                        },
+    "exclusionsText":  {
+                           "message":  "Archív a jeho podpriečinky, Kôš, Nevyžiadaná pošta, Koncepty, Šablóny a Pošta na odoslanie. Spam a Kôš sa vyčistia iba vtedy, keď je povolená možnosť vyššie."
+                       },
+    "invalidCustomDays":  {
+                              "message":  "Zadajte vlastnú hodnotu aspoň 1 deň."
+                          },
+    "noAccounts":  {
+                       "message":  "Nie sú k dispozícii žiadne poštové účty."
+                   },
+    "settingsSaved":  {
+                          "message":  "Nastavenia boli uložené."
+                      },
+    "archivingStatus":  {
+                            "message":  "Archivácia starých správ… Nechajte Thunderbird otvorený."
+                        },
+    "selectAccountError":  {
+                               "message":  "Vyberte aspoň jeden účet."
+                           },
+    "lastRunStatus":  {
+                          "message":  "Posledné spustenie: $1 – $2 archivované, $3 odstránené."
+                      },
+    "runResult":  {
+                      "message":  "$1 správy archivované, $2 natrvalo odstránené."
+                  },
+    "folderErrors":  {
+                         "message":  "Priečinky $1 sa nepodarilo spracovať."
+                     }
+}

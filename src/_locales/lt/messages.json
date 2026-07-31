@@ -1,0 +1,89 @@
+﻿{
+    "extensionName":  {
+                          "message":  "Automatinis archyvas"
+                      },
+    "extensionDescription":  {
+                                 "message":  "Archyvuoja senus pranešimus naudojant sukonfigūruotą „Thunderbird“ archyvavimo veiksmą."
+                             },
+    "actionTitle":  {
+                        "message":  "Archyvuokite senus pranešimus"
+                    },
+    "pageTitle":  {
+                      "message":  "Automatinio archyvavimo nustatymai"
+                  },
+    "heading":  {
+                    "message":  "Automatinis archyvas"
+                },
+    "intro":  {
+                  "message":  "Kartą per dieną archyvuokite senesnius nei pasirinkto amžiaus pranešimus naudodami kiekvienos paskyros „Thunderbird“ archyvo nustatymus."
+              },
+    "daysLegend":  {
+                       "message":  "Dienos"
+                   },
+    "twoMonths":  {
+                      "message":  "2 mėnesiai (60 dienų)"
+                  },
+    "sixMonths":  {
+                      "message":  "6 mėnesiai (180 dienų)"
+                  },
+    "oneYear":  {
+                    "message":  "1 metai (365 dienos)"
+                },
+    "customValue":  {
+                        "message":  "Tinkinta vertė"
+                    },
+    "daysUnit":  {
+                     "message":  "dienų"
+                 },
+    "accountsLegend":  {
+                           "message":  "Pasirinkite paskyras"
+                       },
+    "loadingAccounts":  {
+                            "message":  "Įkeliamos sąskaitos"
+                        },
+    "cleanupLegend":  {
+                          "message":  "Valymas"
+                      },
+    "deleteSpamTrash":  {
+                            "message":  "Ištrinkite senus el. laiškus iš šlamšto ir šiukšliadėžės"
+                        },
+    "deleteWarning":  {
+                          "message":  "Senesni nei pasirinkto amžiaus pranešimai bus ištrinti visam laikui ir jų nebus galima atkurti."
+                      },
+    "saveButton":  {
+                       "message":  "Išsaugoti"
+                   },
+    "runButton":  {
+                      "message":  "Archyvuokite dabar"
+                  },
+    "exclusionsTitle":  {
+                            "message":  "Archyvavimo išimtys:"
+                        },
+    "exclusionsText":  {
+                           "message":  "Archyvas ir jo poaplankiai, Šiukšliadėžė, Šlamštas, Juodraščiai, Šablonai ir Siunčiamieji. Šlamštas ir šiukšliadėžė išvalomi tik tada, kai įjungta anksčiau pateikta parinktis."
+                       },
+    "invalidCustomDays":  {
+                              "message":  "Įveskite tinkintą bent 1 dienos vertę."
+                          },
+    "noAccounts":  {
+                       "message":  "Pašto paskyrų nėra."
+                   },
+    "settingsSaved":  {
+                          "message":  "Nustatymai išsaugoti."
+                      },
+    "archivingStatus":  {
+                            "message":  "Senų pranešimų archyvavimas – laikykite „Thunderbird“ atidarytą."
+                        },
+    "selectAccountError":  {
+                               "message":  "Pasirinkite bent vieną paskyrą."
+                           },
+    "lastRunStatus":  {
+                          "message":  "Paskutinį kartą paleista: $1 â€” $2 suarchyvuota, $3 ištrinta."
+                      },
+    "runResult":  {
+                      "message":  "$1 pranešimai suarchyvuoti, $2 ištrinti visam laikui."
+                  },
+    "folderErrors":  {
+                         "message":  "Nepavyko apdoroti $1 aplankų."
+                     }
+}

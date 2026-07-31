@@ -1,0 +1,89 @@
+﻿{
+    "extensionName":  {
+                          "message":  "Automatyczne archiwizowanie"
+                      },
+    "extensionDescription":  {
+                                 "message":  "Archiwizuje stare wiadomości za pomocą skonfigurowanej w Thunderbirdzie akcji Archiwizuj."
+                             },
+    "actionTitle":  {
+                        "message":  "Archiwizuj stare wiadomości"
+                    },
+    "pageTitle":  {
+                      "message":  "Ustawienia automatycznej archiwizacji"
+                  },
+    "heading":  {
+                    "message":  "Automatyczne archiwizowanie"
+                },
+    "intro":  {
+                  "message":  "Raz dziennie archiwizuj wiadomości starsze niż wybrany wiek, korzystając z ustawień archiwum Thunderbirda na każdym koncie."
+              },
+    "daysLegend":  {
+                       "message":  "Dni"
+                   },
+    "twoMonths":  {
+                      "message":  "2 miesiące (60 dni)"
+                  },
+    "sixMonths":  {
+                      "message":  "6 miesięcy (180 dni)"
+                  },
+    "oneYear":  {
+                    "message":  "1 rok (365 dni)"
+                },
+    "customValue":  {
+                        "message":  "Wartość niestandardowa"
+                    },
+    "daysUnit":  {
+                     "message":  "dni"
+                 },
+    "accountsLegend":  {
+                           "message":  "Wybierz konta"
+                       },
+    "loadingAccounts":  {
+                            "message":  "Ładowanie kont…"
+                        },
+    "cleanupLegend":  {
+                          "message":  "Oczyszczanie"
+                      },
+    "deleteSpamTrash":  {
+                            "message":  "Usuń stare e-maile ze Spamu i Kosza"
+                        },
+    "deleteWarning":  {
+                          "message":  "Wiadomości starsze niż wybrany wiek zostaną trwale usunięte i nie będzie można ich przywrócić."
+                      },
+    "saveButton":  {
+                       "message":  "Zapisz"
+                   },
+    "runButton":  {
+                      "message":  "Archiwizuj teraz"
+                  },
+    "exclusionsTitle":  {
+                            "message":  "Archiwizacja wykluczeń:"
+                        },
+    "exclusionsText":  {
+                           "message":  "Archiwum i jego podfoldery, Kosz, Śmieci, Wersje robocze, Szablony i Skrzynka nadawcza. Spam i Kosz są czyszczone tylko wtedy, gdy włączona jest powyższa opcja."
+                       },
+    "invalidCustomDays":  {
+                              "message":  "Wprowadź wartość niestandardową wynoszącą co najmniej 1 dzień."
+                          },
+    "noAccounts":  {
+                       "message":  "Brak dostępnych kont pocztowych."
+                   },
+    "settingsSaved":  {
+                          "message":  "Ustawienia zostały zapisane."
+                      },
+    "archivingStatus":  {
+                            "message":  "Archiwizowanie starych wiadomości… Pozostaw Thunderbirda otwartego."
+                        },
+    "selectAccountError":  {
+                               "message":  "Wybierz co najmniej jedno konto."
+                           },
+    "lastRunStatus":  {
+                          "message":  "Ostatnie uruchomienie: $1 – $2 zarchiwizowane, $3 usunięte."
+                      },
+    "runResult":  {
+                      "message":  "$1 wiadomości zarchiwizowane, $2 trwale usunięte."
+                  },
+    "folderErrors":  {
+                         "message":  "Nie można przetworzyć folderów $1."
+                     }
+}

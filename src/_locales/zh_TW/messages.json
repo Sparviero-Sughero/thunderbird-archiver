@@ -1,0 +1,89 @@
+﻿{
+    "extensionName":  {
+                          "message":  "自動存檔"
+                      },
+    "extensionDescription":  {
+                                 "message":  "使用 Thunderbird 設定的存檔操作存檔舊訊息。"
+                             },
+    "actionTitle":  {
+                        "message":  "存檔舊消息"
+                    },
+    "pageTitle":  {
+                      "message":  "自動存檔設定"
+                  },
+    "heading":  {
+                    "message":  "自動存檔"
+                },
+    "intro":  {
+                  "message":  "每天一次，使用每個帳戶的 Thunderbird 存檔設定存檔早於所選期限的郵件。"
+              },
+    "daysLegend":  {
+                       "message":  "天"
+                   },
+    "twoMonths":  {
+                      "message":  "2個月（60天）"
+                  },
+    "sixMonths":  {
+                      "message":  "6個月（180天）"
+                  },
+    "oneYear":  {
+                    "message":  "1年（365天）"
+                },
+    "customValue":  {
+                        "message":  "定制值"
+                    },
+    "daysUnit":  {
+                     "message":  "天"
+                 },
+    "accountsLegend":  {
+                           "message":  "選擇帳戶"
+                       },
+    "loadingAccounts":  {
+                            "message":  "正在加載帳戶…"
+                        },
+    "cleanupLegend":  {
+                          "message":  "清理"
+                      },
+    "deleteSpamTrash":  {
+                            "message":  "刪除垃圾郵件和已刪除郵件中的舊電子郵件"
+                        },
+    "deleteWarning":  {
+                          "message":  "早於所選年齡的消息將永久刪除且無法恢復。"
+                      },
+    "saveButton":  {
+                       "message":  "節省"
+                   },
+    "runButton":  {
+                      "message":  "立即存檔"
+                  },
+    "exclusionsTitle":  {
+                            "message":  "歸檔排除："
+                        },
+    "exclusionsText":  {
+                           "message":  "存檔及其子資料夾、垃圾桶、垃圾郵件、草稿、範本和寄件匣。只有在啟用上述選項時，垃圾郵件和垃圾箱才會被清除。"
+                       },
+    "invalidCustomDays":  {
+                              "message":  "輸入至少 1 天的自訂值。"
+                          },
+    "noAccounts":  {
+                       "message":  "沒有可用的郵件帳號。"
+                   },
+    "settingsSaved":  {
+                          "message":  "設定已儲存。"
+                      },
+    "archivingStatus":  {
+                            "message":  "歸檔舊訊息...保持 Thunderbird 打開。"
+                        },
+    "selectAccountError":  {
+                               "message":  "至少選擇一個帳戶。"
+                           },
+    "lastRunStatus":  {
+                          "message":  "上次執行：$1 - $2 已存檔，$3 已刪除。"
+                      },
+    "runResult":  {
+                      "message":  "$1 條訊息已存檔，$2 永久刪除。"
+                  },
+    "folderErrors":  {
+                         "message":  "無法處理 $1 資料夾。"
+                     }
+}

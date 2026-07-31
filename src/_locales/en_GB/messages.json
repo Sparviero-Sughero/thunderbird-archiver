@@ -1,0 +1,89 @@
+﻿{
+    "extensionName":  {
+                          "message":  "Auto Archive"
+                      },
+    "extensionDescription":  {
+                                 "message":  "Archives old messages using Thunderbird\u0027s configured Archive action."
+                             },
+    "actionTitle":  {
+                        "message":  "Archive old messages"
+                    },
+    "pageTitle":  {
+                      "message":  "Auto Archive settings"
+                  },
+    "heading":  {
+                    "message":  "Auto Archive"
+                },
+    "intro":  {
+                  "message":  "Once a day, archive messages older than the selected age using each account\u0027s Thunderbird Archive settings."
+              },
+    "daysLegend":  {
+                       "message":  "Days"
+                   },
+    "twoMonths":  {
+                      "message":  "2 months (60 days)"
+                  },
+    "sixMonths":  {
+                      "message":  "6 months (180 days)"
+                  },
+    "oneYear":  {
+                    "message":  "1 year (365 days)"
+                },
+    "customValue":  {
+                        "message":  "Custom value"
+                    },
+    "daysUnit":  {
+                     "message":  "days"
+                 },
+    "accountsLegend":  {
+                           "message":  "Select accounts"
+                       },
+    "loadingAccounts":  {
+                            "message":  "Loading accountsâ€¦"
+                        },
+    "cleanupLegend":  {
+                          "message":  "Cleanup"
+                      },
+    "deleteSpamTrash":  {
+                            "message":  "Delete old email in Spam and Trash"
+                        },
+    "deleteWarning":  {
+                          "message":  "Messages older than the selected age will be permanently deleted and cannot be restored."
+                      },
+    "saveButton":  {
+                       "message":  "Save"
+                   },
+    "runButton":  {
+                      "message":  "Archive now"
+                  },
+    "exclusionsTitle":  {
+                            "message":  "Archiving exclusions:"
+                        },
+    "exclusionsText":  {
+                           "message":  "Archive and its subfolders, Trash, Junk, Drafts, Templates and Outbox. Spam and Trash are cleaned only when the option above is enabled."
+                       },
+    "invalidCustomDays":  {
+                              "message":  "Enter a custom value of at least 1 day."
+                          },
+    "noAccounts":  {
+                       "message":  "No mail accounts available."
+                   },
+    "settingsSaved":  {
+                          "message":  "Settings saved."
+                      },
+    "archivingStatus":  {
+                            "message":  "Archiving old messagesâ€¦ Keep Thunderbird open."
+                        },
+    "selectAccountError":  {
+                               "message":  "Select at least one account."
+                           },
+    "lastRunStatus":  {
+                          "message":  "Last run: $1 â€” $2 archived, $3 deleted."
+                      },
+    "runResult":  {
+                      "message":  "$1 messages archived, $2 permanently deleted."
+                  },
+    "folderErrors":  {
+                         "message":  "$1 folders could not be processed."
+                     }
+}

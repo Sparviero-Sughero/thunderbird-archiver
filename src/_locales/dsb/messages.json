@@ -1,0 +1,89 @@
+﻿{
+    "extensionName":  {
+                          "message":  "Automatisches Archiv"
+                      },
+    "extensionDescription":  {
+                                 "message":  "Archiviert alte Nachrichten mithilfe der konfigurierten Archivierungsaktion von Thunderbird."
+                             },
+    "actionTitle":  {
+                        "message":  "Archivieren Sie alte Nachrichten"
+                    },
+    "pageTitle":  {
+                      "message":  "Einstellungen für die automatische Archivierung"
+                  },
+    "heading":  {
+                    "message":  "Automatisches Archiv"
+                },
+    "intro":  {
+                  "message":  "Archivieren Sie einmal täglich Nachrichten, die älter als das ausgewählte Alter sind, mithilfe der Thunderbird-Archiveinstellungen jedes Kontos."
+              },
+    "daysLegend":  {
+                       "message":  "Tage"
+                   },
+    "twoMonths":  {
+                      "message":  "2 Monate (60 Tage)"
+                  },
+    "sixMonths":  {
+                      "message":  "6 Monate (180 Tage)"
+                  },
+    "oneYear":  {
+                    "message":  "1 Jahr (365 Tage)"
+                },
+    "customValue":  {
+                        "message":  "Benutzerdefinierter Wert"
+                    },
+    "daysUnit":  {
+                     "message":  "Tage"
+                 },
+    "accountsLegend":  {
+                           "message":  "Wählen Sie Konten aus"
+                       },
+    "loadingAccounts":  {
+                            "message":  "Konten werden geladen …"
+                        },
+    "cleanupLegend":  {
+                          "message":  "Aufräumen"
+                      },
+    "deleteSpamTrash":  {
+                            "message":  "Löschen Sie alte E-Mails in Spam und Papierkorb"
+                        },
+    "deleteWarning":  {
+                          "message":  "Nachrichten, die älter als das ausgewählte Alter sind, werden dauerhaft gelöscht und können nicht wiederhergestellt werden."
+                      },
+    "saveButton":  {
+                       "message":  "Speichern"
+                   },
+    "runButton":  {
+                      "message":  "Jetzt archivieren"
+                  },
+    "exclusionsTitle":  {
+                            "message":  "Archivierungsausschlüsse:"
+                        },
+    "exclusionsText":  {
+                           "message":  "Archiv und seine Unterordner Papierkorb, Junk, Entwürfe, Vorlagen und Postausgang. Spam und Papierkorb werden nur bereinigt, wenn die obige Option aktiviert ist."
+                       },
+    "invalidCustomDays":  {
+                              "message":  "Geben Sie einen benutzerdefinierten Wert von mindestens 1 Tag ein."
+                          },
+    "noAccounts":  {
+                       "message":  "Keine E-Mail-Konten verfügbar."
+                   },
+    "settingsSaved":  {
+                          "message":  "Einstellungen gespeichert."
+                      },
+    "archivingStatus":  {
+                            "message":  "Alte Nachrichten archivieren ... Lassen Sie Thunderbird geöffnet."
+                        },
+    "selectAccountError":  {
+                               "message":  "Wählen Sie mindestens ein Konto aus."
+                           },
+    "lastRunStatus":  {
+                          "message":  "Letzte Ausführung: $1 – $2 archiviert, $3 gelöscht."
+                      },
+    "runResult":  {
+                      "message":  "$1 Nachrichten archiviert, $2 dauerhaft gelöscht."
+                  },
+    "folderErrors":  {
+                         "message":  "$1 Ordner konnten nicht verarbeitet werden."
+                     }
+}

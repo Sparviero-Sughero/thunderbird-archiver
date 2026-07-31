@@ -1,0 +1,89 @@
+﻿{
+    "extensionName":  {
+                          "message":  "ස්වයංක්‍රීය ලේඛනාගාරය"
+                      },
+    "extensionDescription":  {
+                                 "message":  "Thunderbird හි වින්‍යාසගත සංරක්ෂිත ක්‍රියාව භාවිතයෙන් පැරණි පණිවිඩ සංරක්ෂණය කරයි."
+                             },
+    "actionTitle":  {
+                        "message":  "පැරණි පණිවිඩ සංරක්ෂණය කරන්න"
+                    },
+    "pageTitle":  {
+                      "message":  "ස්වයං සංරක්ෂිත සැකසුම්"
+                  },
+    "heading":  {
+                    "message":  "ස්වයංක්‍රීය ලේඛනාගාරය"
+                },
+    "intro":  {
+                  "message":  "දිනකට වරක්, එක් එක් ගිණුමේ Thunderbird සංරක්ෂිත සැකසීම් භාවිතයෙන් තෝරාගත් වයසට වඩා පැරණි පණිවිඩ සංරක්ෂණය කරන්න."
+              },
+    "daysLegend":  {
+                       "message":  "දින"
+                   },
+    "twoMonths":  {
+                      "message":  "මාස 2 (දින 60)"
+                  },
+    "sixMonths":  {
+                      "message":  "මාස 6 (දින 180)"
+                  },
+    "oneYear":  {
+                    "message":  "වසර 1 (දින 365)"
+                },
+    "customValue":  {
+                        "message":  "අභිරුචි වටිනාකම"
+                    },
+    "daysUnit":  {
+                     "message":  "දින"
+                 },
+    "accountsLegend":  {
+                           "message":  "ගිණුම් තෝරන්න"
+                       },
+    "loadingAccounts":  {
+                            "message":  "ගිණුම් පූරණය කරමින්â€¦"
+                        },
+    "cleanupLegend":  {
+                          "message":  "පිරිසිදු කිරීම"
+                      },
+    "deleteSpamTrash":  {
+                            "message":  "අයාචිත තැපෑල සහ කුණු කූඩය තුළ පැරණි ඊමේල් මකන්න"
+                        },
+    "deleteWarning":  {
+                          "message":  "තෝරාගත් වයසට වඩා පැරණි පණිවිඩ ස්ථිරවම මකනු ලබන අතර ප්‍රතිසාධනය කළ නොහැක."
+                      },
+    "saveButton":  {
+                       "message":  "සුරකින්න"
+                   },
+    "runButton":  {
+                      "message":  "දැන් සංරක්ෂණය කරන්න"
+                  },
+    "exclusionsTitle":  {
+                            "message":  "සංරක්ෂිත බැහැර කිරීම්:"
+                        },
+    "exclusionsText":  {
+                           "message":  "සංරක්ෂිතය සහ එහි උප ෆෝල්ඩර, කුණු කූඩය, කුණු, කෙටුම්පත්, සැකිලි සහ පිට පෙට්ටිය. අයාචිත තැපෑල සහ අපද්‍රව්‍ය පිරිසිදු කරනු ලබන්නේ ඉහත විකල්පය සබල කළ විට පමණි."
+                       },
+    "invalidCustomDays":  {
+                              "message":  "අවම වශයෙන් දින 1 ක අභිරුචි අගයක් ඇතුළු කරන්න."
+                          },
+    "noAccounts":  {
+                       "message":  "තැපැල් ගිණුම් නොමැත."
+                   },
+    "settingsSaved":  {
+                          "message":  "සැකසීම් සුරකින ලදී."
+                      },
+    "archivingStatus":  {
+                            "message":  "පැරණි පණිවිඩ සංරක්ෂණය කිරීම â€¦ Thunderbird විවෘතව තබන්න."
+                        },
+    "selectAccountError":  {
+                               "message":  "අවම වශයෙන් එක් ගිණුමක් තෝරන්න."
+                           },
+    "lastRunStatus":  {
+                          "message":  "අවසන් ධාවනය: $1 â€” $2 සංරක්ෂණය කරන ලදී, $3 මකා දමන ලදී."
+                      },
+    "runResult":  {
+                      "message":  "$1 පණිවිඩ සංරක්ෂණය කරන ලදී, $2 ස්ථිරවම මකා ඇත."
+                  },
+    "folderErrors":  {
+                         "message":  "$1 ෆෝල්ඩර සැකසීමට නොහැකි විය."
+                     }
+}

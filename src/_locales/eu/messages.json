@@ -1,0 +1,89 @@
+﻿{
+    "extensionName":  {
+                          "message":  "Artxibo automatikoa"
+                      },
+    "extensionDescription":  {
+                                 "message":  "Mezu zaharrak artxibatu Thunderbird-en konfiguratutako Artxibo-ekintza erabiliz."
+                             },
+    "actionTitle":  {
+                        "message":  "Artxibatu mezu zaharrak"
+                    },
+    "pageTitle":  {
+                      "message":  "Artxibo automatikoaren ezarpenak"
+                  },
+    "heading":  {
+                    "message":  "Artxibo automatikoa"
+                },
+    "intro":  {
+                  "message":  "Egunean behin, artxibatu hautatutako adina baino zaharragoak diren mezuak kontu bakoitzaren Thunderbird Archive ezarpenak erabiliz."
+              },
+    "daysLegend":  {
+                       "message":  "Egunak"
+                   },
+    "twoMonths":  {
+                      "message":  "2 hilabete (60 egun)"
+                  },
+    "sixMonths":  {
+                      "message":  "6 hilabete (180 egun)"
+                  },
+    "oneYear":  {
+                    "message":  "1 urte (365 egun)"
+                },
+    "customValue":  {
+                        "message":  "Balio pertsonalizatua"
+                    },
+    "daysUnit":  {
+                     "message":  "egunak"
+                 },
+    "accountsLegend":  {
+                           "message":  "Hautatu kontuak"
+                       },
+    "loadingAccounts":  {
+                            "message":  "Kontuak kargatzenâ¦"
+                        },
+    "cleanupLegend":  {
+                          "message":  "Garbiketa"
+                      },
+    "deleteSpamTrash":  {
+                            "message":  "Ezabatu posta elektroniko zaharra Spam eta Zaborrontzian"
+                        },
+    "deleteWarning":  {
+                          "message":  "Hautatutako adina baino zaharragoak diren mezuak betiko ezabatuko dira eta ezin izango dira leheneratu."
+                      },
+    "saveButton":  {
+                       "message":  "Gorde"
+                   },
+    "runButton":  {
+                      "message":  "Artxibatu orain"
+                  },
+    "exclusionsTitle":  {
+                            "message":  "Artxibatzeko bazterketak:"
+                        },
+    "exclusionsText":  {
+                           "message":  "Artxiboa eta bere azpikarpetak, Zakarra, Zabor, Zirriborroak, Txantiloiak eta Irteera-ontzia. Spama eta Zaborrontzia goiko aukera gaituta dagoenean soilik garbitzen dira."
+                       },
+    "invalidCustomDays":  {
+                              "message":  "Sartu gutxienez egun bateko balio pertsonalizatua."
+                          },
+    "noAccounts":  {
+                       "message":  "Ez dago posta-konturik erabilgarri."
+                   },
+    "settingsSaved":  {
+                          "message":  "Ezarpenak gorde dira."
+                      },
+    "archivingStatus":  {
+                            "message":  "Mezu zaharrak artxibatuâ¦ Mantendu Thunderbird irekita."
+                        },
+    "selectAccountError":  {
+                               "message":  "Hautatu gutxienez kontu bat."
+                           },
+    "lastRunStatus":  {
+                          "message":  "Azken exekuzioa: $1 â€” $2 artxibatuta, $3 ezabatu da."
+                      },
+    "runResult":  {
+                      "message":  "$1 mezuak artxibatu dira, $2 betiko ezabatu dira."
+                  },
+    "folderErrors":  {
+                         "message":  "$1 karpetak ezin izan dira prozesatu."
+                     }
+}

@@ -1,0 +1,89 @@
+﻿{
+    "extensionName":  {
+                          "message":  "Arquivo automático"
+                      },
+    "extensionDescription":  {
+                                 "message":  "Arquiva mensagens antigas usando a ação Arquivar configurada do Thunderbird."
+                             },
+    "actionTitle":  {
+                        "message":  "Arquivar mensagens antigas"
+                    },
+    "pageTitle":  {
+                      "message":  "Configurações de arquivamento automático"
+                  },
+    "heading":  {
+                    "message":  "Arquivo automático"
+                },
+    "intro":  {
+                  "message":  "Uma vez por dia, arquive mensagens com idade superior à selecionada usando as configurações do Thunderbird Archive de cada conta."
+              },
+    "daysLegend":  {
+                       "message":  "Dias"
+                   },
+    "twoMonths":  {
+                      "message":  "2 meses (60 dias)"
+                  },
+    "sixMonths":  {
+                      "message":  "6 meses (180 dias)"
+                  },
+    "oneYear":  {
+                    "message":  "1 ano (365 dias)"
+                },
+    "customValue":  {
+                        "message":  "Valor personalizado"
+                    },
+    "daysUnit":  {
+                     "message":  "dias"
+                 },
+    "accountsLegend":  {
+                           "message":  "Selecione contas"
+                       },
+    "loadingAccounts":  {
+                            "message":  "Carregando contas…"
+                        },
+    "cleanupLegend":  {
+                          "message":  "Limpeza"
+                      },
+    "deleteSpamTrash":  {
+                            "message":  "Exclua e-mails antigos do Spam e da Lixeira"
+                        },
+    "deleteWarning":  {
+                          "message":  "Mensagens anteriores à idade selecionada serão excluídas permanentemente e não poderão ser restauradas."
+                      },
+    "saveButton":  {
+                       "message":  "Salvar"
+                   },
+    "runButton":  {
+                      "message":  "Arquivar agora"
+                  },
+    "exclusionsTitle":  {
+                            "message":  "Exclusões de arquivamento:"
+                        },
+    "exclusionsText":  {
+                           "message":  "Arquivo e suas subpastas, Lixeira, Lixo, Rascunhos, Modelos e Caixa de saída. Spam e Lixeira são limpos somente quando a opção acima está habilitada."
+                       },
+    "invalidCustomDays":  {
+                              "message":  "Insira um valor personalizado de pelo menos 1 dia."
+                          },
+    "noAccounts":  {
+                       "message":  "Nenhuma conta de e-mail disponível."
+                   },
+    "settingsSaved":  {
+                          "message":  "Configurações salvas."
+                      },
+    "archivingStatus":  {
+                            "message":  "Arquivando mensagens antigas... Mantenha o Thunderbird aberto."
+                        },
+    "selectAccountError":  {
+                               "message":  "Selecione pelo menos uma conta."
+                           },
+    "lastRunStatus":  {
+                          "message":  "Última execução: $1 — $2 arquivado, $3 excluído."
+                      },
+    "runResult":  {
+                      "message":  "$1 mensagens arquivadas, $2 excluídas permanentemente."
+                  },
+    "folderErrors":  {
+                         "message":  "$1 pastas não puderam ser processadas."
+                     }
+}

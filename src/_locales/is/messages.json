@@ -1,0 +1,89 @@
+﻿{
+    "extensionName":  {
+                          "message":  "Auto Archive"
+                      },
+    "extensionDescription":  {
+                                 "message":  "Geymir gömul skilaboð með því að nota uppsetta skjalaaðgerð Thunderbird."
+                             },
+    "actionTitle":  {
+                        "message":  "Geymdu gömul skilaboð"
+                    },
+    "pageTitle":  {
+                      "message":  "Stillingar sjálfvirkrar geymslu"
+                  },
+    "heading":  {
+                    "message":  "Auto Archive"
+                },
+    "intro":  {
+                  "message":  "Einu sinni á dag, geymdu skilaboð eldri en valinn aldur með því að nota Thunderbird Archive stillingar hvers reiknings."
+              },
+    "daysLegend":  {
+                       "message":  "Dagar"
+                   },
+    "twoMonths":  {
+                      "message":  "2 mánuðir (60 dagar)"
+                  },
+    "sixMonths":  {
+                      "message":  "6 mánuðir (180 dagar)"
+                  },
+    "oneYear":  {
+                    "message":  "1 ár (365 dagar)"
+                },
+    "customValue":  {
+                        "message":  "Sérsniðið gildi"
+                    },
+    "daysUnit":  {
+                     "message":  "daga"
+                 },
+    "accountsLegend":  {
+                           "message":  "Veldu reikninga"
+                       },
+    "loadingAccounts":  {
+                            "message":  "Hleður reikningumâ€¦"
+                        },
+    "cleanupLegend":  {
+                          "message":  "Hreinsun"
+                      },
+    "deleteSpamTrash":  {
+                            "message":  "Eyða gömlum tölvupósti í ruslpósti og rusli"
+                        },
+    "deleteWarning":  {
+                          "message":  "Skilaboðum eldri en valinn aldur verður varanlega eytt og ekki er hægt að endurheimta þau."
+                      },
+    "saveButton":  {
+                       "message":  "Vista"
+                   },
+    "runButton":  {
+                      "message":  "Geymdu núna"
+                  },
+    "exclusionsTitle":  {
+                            "message":  "Útilokanir á geymslu:"
+                        },
+    "exclusionsText":  {
+                           "message":  "Skjalasafn og undirmöppur þess, rusl, rusl, drög, sniðmát og úthólf. Ruslpóstur og rusl eru aðeins hreinsuð þegar valkosturinn hér að ofan er virkur."
+                       },
+    "invalidCustomDays":  {
+                              "message":  "Sláðu inn sérsniðið gildi sem er að minnsta kosti 1 dag."
+                          },
+    "noAccounts":  {
+                       "message":  "Engir póstreikningar tiltækir."
+                   },
+    "settingsSaved":  {
+                          "message":  "Stillingar vistaðar."
+                      },
+    "archivingStatus":  {
+                            "message":  "Geymsla gamalla skilaboða... Haltu Thunderbird opinni."
+                        },
+    "selectAccountError":  {
+                               "message":  "Veldu að minnsta kosti einn reikning."
+                           },
+    "lastRunStatus":  {
+                          "message":  "Síðasta keyrsla: $1 â€“ $2 sett í geymslu, $3 eytt."
+                      },
+    "runResult":  {
+                      "message":  "$1 skilaboð sett í geymslu, $2 eytt varanlega."
+                  },
+    "folderErrors":  {
+                         "message":  "Ekki var hægt að vinna úr $1 möppum."
+                     }
+}

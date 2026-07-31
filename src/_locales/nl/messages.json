@@ -1,0 +1,89 @@
+﻿{
+    "extensionName":  {
+                          "message":  "Automatisch archiveren"
+                      },
+    "extensionDescription":  {
+                                 "message":  "Archiveert oude berichten met behulp van de geconfigureerde archiveringsactie van Thunderbird."
+                             },
+    "actionTitle":  {
+                        "message":  "Archiveer oude berichten"
+                    },
+    "pageTitle":  {
+                      "message":  "Instellingen voor automatisch archiveren"
+                  },
+    "heading":  {
+                    "message":  "Automatisch archiveren"
+                },
+    "intro":  {
+                  "message":  "Archiveer één keer per dag berichten die ouder zijn dan de geselecteerde leeftijd met behulp van de Thunderbird-archiefinstellingen van elk account."
+              },
+    "daysLegend":  {
+                       "message":  "Dagen"
+                   },
+    "twoMonths":  {
+                      "message":  "2 maanden (60 dagen)"
+                  },
+    "sixMonths":  {
+                      "message":  "6 maanden (180 dagen)"
+                  },
+    "oneYear":  {
+                    "message":  "1 jaar (365 dagen)"
+                },
+    "customValue":  {
+                        "message":  "Aangepaste waarde"
+                    },
+    "daysUnit":  {
+                     "message":  "dagen"
+                 },
+    "accountsLegend":  {
+                           "message":  "Selecteer accounts"
+                       },
+    "loadingAccounts":  {
+                            "message":  "Accounts ladenâ€¦"
+                        },
+    "cleanupLegend":  {
+                          "message":  "Opruimen"
+                      },
+    "deleteSpamTrash":  {
+                            "message":  "Verwijder oude e-mail in Spam en Prullenbak"
+                        },
+    "deleteWarning":  {
+                          "message":  "Berichten ouder dan de geselecteerde leeftijd worden permanent verwijderd en kunnen niet worden hersteld."
+                      },
+    "saveButton":  {
+                       "message":  "Opslaan"
+                   },
+    "runButton":  {
+                      "message":  "Nu archiveren"
+                  },
+    "exclusionsTitle":  {
+                            "message":  "Uitsluitingen archiveren:"
+                        },
+    "exclusionsText":  {
+                           "message":  "Archief en zijn submappen, Prullenbak, Ongewenste reclame, Concepten, Sjablonen en Postvak UIT. Spam en prullenbak worden alleen opgeschoond als de bovenstaande optie is ingeschakeld."
+                       },
+    "invalidCustomDays":  {
+                              "message":  "Voer een aangepaste waarde van minimaal 1 dag in."
+                          },
+    "noAccounts":  {
+                       "message":  "Geen e-mailaccounts beschikbaar."
+                   },
+    "settingsSaved":  {
+                          "message":  "Instellingen opgeslagen."
+                      },
+    "archivingStatus":  {
+                            "message":  "Oude berichten archiveren... Houd Thunderbird open."
+                        },
+    "selectAccountError":  {
+                               "message":  "Selecteer ten minste één account."
+                           },
+    "lastRunStatus":  {
+                          "message":  "Laatste run: $1 – $2 gearchiveerd, $3 verwijderd."
+                      },
+    "runResult":  {
+                      "message":  "$1 berichten gearchiveerd, $2 permanent verwijderd."
+                  },
+    "folderErrors":  {
+                         "message":  "$1 mappen konden niet worden verwerkt."
+                     }
+}

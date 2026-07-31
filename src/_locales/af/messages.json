@@ -1,0 +1,89 @@
+﻿{
+    "extensionName":  {
+                          "message":  "Outomatiese argief"
+                      },
+    "extensionDescription":  {
+                                 "message":  "Argiveer ou boodskappe deur Thunderbird se gekonfigureerde Argief-aksie te gebruik."
+                             },
+    "actionTitle":  {
+                        "message":  "Argiveer ou boodskappe"
+                    },
+    "pageTitle":  {
+                      "message":  "Outomatiese argiefinstellings"
+                  },
+    "heading":  {
+                    "message":  "Outomatiese argief"
+                },
+    "intro":  {
+                  "message":  "Argiveer een keer per dag boodskappe ouer as die gekose ouderdom deur elke rekening se Thunderbird-argiefinstellings te gebruik."
+              },
+    "daysLegend":  {
+                       "message":  "Dae"
+                   },
+    "twoMonths":  {
+                      "message":  "2 maande (60 dae)"
+                  },
+    "sixMonths":  {
+                      "message":  "6 maande (180 dae)"
+                  },
+    "oneYear":  {
+                    "message":  "1 jaar (365 dae)"
+                },
+    "customValue":  {
+                        "message":  "Pasgemaakte waarde"
+                    },
+    "daysUnit":  {
+                     "message":  "dae"
+                 },
+    "accountsLegend":  {
+                           "message":  "Kies rekeninge"
+                       },
+    "loadingAccounts":  {
+                            "message":  "Laai rekeninge…"
+                        },
+    "cleanupLegend":  {
+                          "message":  "Opruiming"
+                      },
+    "deleteSpamTrash":  {
+                            "message":  "Vee ou e-pos in strooipos en asblik uit"
+                        },
+    "deleteWarning":  {
+                          "message":  "Boodskappe ouer as die gekose ouderdom sal permanent uitgevee word en kan nie teruggestel word nie."
+                      },
+    "saveButton":  {
+                       "message":  "Stoor"
+                   },
+    "runButton":  {
+                      "message":  "Argief nou"
+                  },
+    "exclusionsTitle":  {
+                            "message":  "Argiveer-uitsluitings:"
+                        },
+    "exclusionsText":  {
+                           "message":  "Argief en sy subvouers, asblik, gemors, konsep, sjablone en uitboks. Strooipos en asblik word slegs skoongemaak wanneer die opsie hierbo geaktiveer is."
+                       },
+    "invalidCustomDays":  {
+                              "message":  "Voer \u0027n gepasmaakte waarde van ten minste 1 dag in."
+                          },
+    "noAccounts":  {
+                       "message":  "Geen posrekeninge beskikbaar nie."
+                   },
+    "settingsSaved":  {
+                          "message":  "Instellings gestoor."
+                      },
+    "archivingStatus":  {
+                            "message":  "Argiveer ou boodskappe… Hou Thunderbird oop."
+                        },
+    "selectAccountError":  {
+                               "message":  "Kies ten minste een rekening."
+                           },
+    "lastRunStatus":  {
+                          "message":  "Laaste lopie: $1 â€” $2 geargiveer, $3 uitgevee."
+                      },
+    "runResult":  {
+                      "message":  "$1 boodskappe geargiveer, $2 permanent uitgevee."
+                  },
+    "folderErrors":  {
+                         "message":  "$1 vouers kon nie verwerk word nie."
+                     }
+}

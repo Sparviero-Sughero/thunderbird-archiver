@@ -1,0 +1,89 @@
+﻿{
+    "extensionName":  {
+                          "message":  "آرشیو خودکار"
+                      },
+    "extensionDescription":  {
+                                 "message":  "پیام‌های قدیمی را با استفاده از عملکرد آرشیو پیکربندی‌شده تاندربرد بایگانی می‌کند."
+                             },
+    "actionTitle":  {
+                        "message":  "بایگانی پیام های قدیمی"
+                    },
+    "pageTitle":  {
+                      "message":  "تنظیمات بایگانی خودکار"
+                  },
+    "heading":  {
+                    "message":  "آرشیو خودکار"
+                },
+    "intro":  {
+                  "message":  "یک بار در روز، پیام‌های قدیمی‌تر از سن انتخاب‌شده را با استفاده از تنظیمات بایگانی Thunderbird هر حساب بایگانی کنید."
+              },
+    "daysLegend":  {
+                       "message":  "روزها"
+                   },
+    "twoMonths":  {
+                      "message":  "2 ماه (60 روز)"
+                  },
+    "sixMonths":  {
+                      "message":  "6 ماه (180 روز)"
+                  },
+    "oneYear":  {
+                    "message":  "1 سال (365 روز)"
+                },
+    "customValue":  {
+                        "message":  "ارزش سفارشی"
+                    },
+    "daysUnit":  {
+                     "message":  "روز"
+                 },
+    "accountsLegend":  {
+                           "message":  "حساب ها را انتخاب کنید"
+                       },
+    "loadingAccounts":  {
+                            "message":  "بارگیری حساب ها"
+                        },
+    "cleanupLegend":  {
+                          "message":  "پاکسازی"
+                      },
+    "deleteSpamTrash":  {
+                            "message":  "ایمیل های قدیمی را در هرزنامه و سطل زباله حذف کنید"
+                        },
+    "deleteWarning":  {
+                          "message":  "پیام‌های قدیمی‌تر از سن انتخاب‌شده برای همیشه حذف می‌شوند و قابل بازیابی نیستند."
+                      },
+    "saveButton":  {
+                       "message":  "ذخیره کنید"
+                   },
+    "runButton":  {
+                      "message":  "اکنون بایگانی کنید"
+                  },
+    "exclusionsTitle":  {
+                            "message":  "استثناهای بایگانی:"
+                        },
+    "exclusionsText":  {
+                           "message":  "آرشیو و زیرپوشه های آن، سطل زباله، ناخواسته، پیش نویس ها، الگوها و صندوق خروجی. هرزنامه و سطل زباله تنها زمانی پاک می شوند که گزینه بالا فعال باشد."
+                       },
+    "invalidCustomDays":  {
+                              "message":  "مقدار سفارشی حداقل 1 روز را وارد کنید."
+                          },
+    "noAccounts":  {
+                       "message":  "هیچ حساب پستی در دسترس نیست."
+                   },
+    "settingsSaved":  {
+                          "message":  "تنظیمات ذخیره شد."
+                      },
+    "archivingStatus":  {
+                            "message":  "بایگانی کردن پیام‌های قدیمی - Thunderbird را باز نگه دارید."
+                        },
+    "selectAccountError":  {
+                               "message":  "حداقل یک حساب را انتخاب کنید."
+                           },
+    "lastRunStatus":  {
+                          "message":  "آخرین اجرا: $1 â€” $2 بایگانی شد، $3 حذف شد."
+                      },
+    "runResult":  {
+                      "message":  "$1 پیام بایگانی شد، $2 برای همیشه حذف شد."
+                  },
+    "folderErrors":  {
+                         "message":  "پوشه های $1 پردازش نشدند."
+                     }
+}

@@ -1,0 +1,89 @@
+﻿{
+    "extensionName":  {
+                          "message":  "เก็บถาวรอัตโนมัติ"
+                      },
+    "extensionDescription":  {
+                                 "message":  "เก็บถาวรข้อความเก่าโดยใช้การดำเนินการเก็บถาวรที่กำหนดค่าไว้ของ Thunderbird"
+                             },
+    "actionTitle":  {
+                        "message":  "เก็บถาวรข้อความเก่า"
+                    },
+    "pageTitle":  {
+                      "message":  "การตั้งค่าการเก็บถาวรอัตโนมัติ"
+                  },
+    "heading":  {
+                    "message":  "เก็บถาวรอัตโนมัติ"
+                },
+    "intro":  {
+                  "message":  "จัดเก็บข้อความที่เก่ากว่าอายุที่เลือกไว้วันละครั้ง โดยใช้การตั้งค่า Thunderbird Archive ของแต่ละบัญชี"
+              },
+    "daysLegend":  {
+                       "message":  "วัน"
+                   },
+    "twoMonths":  {
+                      "message":  "2 เดือน (60 วัน)"
+                  },
+    "sixMonths":  {
+                      "message":  "6 เดือน (180 วัน)"
+                  },
+    "oneYear":  {
+                    "message":  "1 ปี (365 วัน)"
+                },
+    "customValue":  {
+                        "message":  "ค่าที่กำหนดเอง"
+                    },
+    "daysUnit":  {
+                     "message":  "วัน"
+                 },
+    "accountsLegend":  {
+                           "message":  "เลือกบัญชี"
+                       },
+    "loadingAccounts":  {
+                            "message":  "กำลังโหลดบัญชีâ €¦"
+                        },
+    "cleanupLegend":  {
+                          "message":  "การล้างข้อมูล"
+                      },
+    "deleteSpamTrash":  {
+                            "message":  "ลบอีเมลเก่าในสแปมและถังขยะ"
+                        },
+    "deleteWarning":  {
+                          "message":  "ข้อความที่เก่ากว่าอายุที่เลือกจะถูกลบอย่างถาวรและไม่สามารถกู้คืนได้"
+                      },
+    "saveButton":  {
+                       "message":  "บันทึก"
+                   },
+    "runButton":  {
+                      "message":  "เก็บถาวรตอนนี้"
+                  },
+    "exclusionsTitle":  {
+                            "message":  "การเก็บถาวรข้อยกเว้น:"
+                        },
+    "exclusionsText":  {
+                           "message":  "ไฟล์เก็บถาวรและโฟลเดอร์ย่อย ถังขยะ ขยะ ร่าง เทมเพลต และกล่องขาออก สแปมและถังขยะจะถูกล้างเมื่อเปิดใช้งานตัวเลือกด้านบนเท่านั้น"
+                       },
+    "invalidCustomDays":  {
+                              "message":  "ป้อนค่าที่กำหนดเองอย่างน้อย 1 วัน"
+                          },
+    "noAccounts":  {
+                       "message":  "ไม่มีบัญชีเมล"
+                   },
+    "settingsSaved":  {
+                          "message":  "บันทึกการตั้งค่าแล้ว"
+                      },
+    "archivingStatus":  {
+                            "message":  "การเก็บข้อความเก่าๆ – เปิดธันเดอร์เบิร์ดไว้"
+                        },
+    "selectAccountError":  {
+                               "message":  "เลือกอย่างน้อยหนึ่งบัญชี"
+                           },
+    "lastRunStatus":  {
+                          "message":  "การเรียกใช้ครั้งล่าสุด: $1 â€” $2 เก็บถาวรแล้ว $3 ลบแล้ว"
+                      },
+    "runResult":  {
+                      "message":  "$1 ข้อความถูกเก็บถาวร $2 ถูกลบอย่างถาวร"
+                  },
+    "folderErrors":  {
+                         "message":  "$1 โฟลเดอร์ไม่สามารถประมวลผลได้"
+                     }
+}

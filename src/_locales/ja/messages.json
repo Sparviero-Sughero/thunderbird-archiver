@@ -1,0 +1,89 @@
+﻿{
+    "extensionName":  {
+                          "message":  "自動アーカイブ"
+                      },
+    "extensionDescription":  {
+                                 "message":  "Thunderbird の設定されたアーカイブ アクションを使用して古いメッセージをアーカイブします。"
+                             },
+    "actionTitle":  {
+                        "message":  "古いメッセージをアーカイブする"
+                    },
+    "pageTitle":  {
+                      "message":  "自動アーカイブ設定"
+                  },
+    "heading":  {
+                    "message":  "自動アーカイブ"
+                },
+    "intro":  {
+                  "message":  "1 日に 1 回、各アカウントの Thunderbird アーカイブ設定を使用して、選択した期間より古いメッセージをアーカイブします。"
+              },
+    "daysLegend":  {
+                       "message":  "日数"
+                   },
+    "twoMonths":  {
+                      "message":  "2ヶ月（60日）"
+                  },
+    "sixMonths":  {
+                      "message":  "6ヶ月（180日）"
+                  },
+    "oneYear":  {
+                    "message":  "1年（365日）"
+                },
+    "customValue":  {
+                        "message":  "カスタム値"
+                    },
+    "daysUnit":  {
+                     "message":  "日"
+                 },
+    "accountsLegend":  {
+                           "message":  "アカウントの選択"
+                       },
+    "loadingAccounts":  {
+                            "message":  "アカウントを読み込み中..."
+                        },
+    "cleanupLegend":  {
+                          "message":  "クリーンアップ"
+                      },
+    "deleteSpamTrash":  {
+                            "message":  "スパムとゴミ箱にある古いメールを削除する"
+                        },
+    "deleteWarning":  {
+                          "message":  "選択した期間より古いメッセージは完全に削除され、復元することはできません。"
+                      },
+    "saveButton":  {
+                       "message":  "保存"
+                   },
+    "runButton":  {
+                      "message":  "今すぐアーカイブ"
+                  },
+    "exclusionsTitle":  {
+                            "message":  "アーカイブの除外:"
+                        },
+    "exclusionsText":  {
+                           "message":  "アーカイブとそのサブフォルダー、ゴミ箱、ジャンク、下書き、テンプレート、送信箱。スパムとゴミ箱は、上記のオプションが有効になっている場合にのみ除去されます。"
+                       },
+    "invalidCustomDays":  {
+                              "message":  "少なくとも 1 日のカスタム値を入力します。"
+                          },
+    "noAccounts":  {
+                       "message":  "利用可能なメール アカウントがありません。"
+                   },
+    "settingsSaved":  {
+                          "message":  "設定が保存されました。"
+                      },
+    "archivingStatus":  {
+                            "message":  "古いメッセージをアーカイブする... Thunderbird を開いたままにしておきます。"
+                        },
+    "selectAccountError":  {
+                               "message":  "少なくとも 1 つのアカウントを選択してください。"
+                           },
+    "lastRunStatus":  {
+                          "message":  "最終実行: $1 – $2 はアーカイブされ、$3 は削除されました。"
+                      },
+    "runResult":  {
+                      "message":  "$1 件のメッセージはアーカイブされ、$2 件は完全に削除されました。"
+                  },
+    "folderErrors":  {
+                         "message":  "$1 フォルダーを処理できませんでした。"
+                     }
+}

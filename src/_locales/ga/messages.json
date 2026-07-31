@@ -1,0 +1,89 @@
+﻿{
+    "extensionName":  {
+                          "message":  "Cartlann Uathoibríoch"
+                      },
+    "extensionDescription":  {
+                                 "message":  "Déan seanteachtaireachtaí a chur i gcartlann ag baint úsáide as gníomh Cartlainne cumraithe Thunderbird."
+                             },
+    "actionTitle":  {
+                        "message":  "Cartlann seanteachtaireachtaí"
+                    },
+    "pageTitle":  {
+                      "message":  "Socruithe Cartlainne Uathoibríoch"
+                  },
+    "heading":  {
+                    "message":  "Cartlann Uathoibríoch"
+                },
+    "intro":  {
+                  "message":  "Uair sa lá, cartlann teachtaireachtaí atá níos sine ná an aois roghnaithe ag baint úsáide as socruithe Cartlainne Thunderbird gach cuntais."
+              },
+    "daysLegend":  {
+                       "message":  "Laethanta"
+                   },
+    "twoMonths":  {
+                      "message":  "2 mhí (60 lá)"
+                  },
+    "sixMonths":  {
+                      "message":  "6 mhí (180 lá)"
+                  },
+    "oneYear":  {
+                    "message":  "1 bhliain (365 lá)"
+                },
+    "customValue":  {
+                        "message":  "Luach saincheaptha"
+                    },
+    "daysUnit":  {
+                     "message":  "laethanta"
+                 },
+    "accountsLegend":  {
+                           "message":  "Roghnaigh cuntais"
+                       },
+    "loadingAccounts":  {
+                            "message":  "Cuntais á lódáil"
+                        },
+    "cleanupLegend":  {
+                          "message":  "Glanta"
+                      },
+    "deleteSpamTrash":  {
+                            "message":  "Scrios seanríomhphost sa Turscar agus sa Bhruscar"
+                        },
+    "deleteWarning":  {
+                          "message":  "Scriosfar go buan teachtaireachtaí atá níos sine ná an aois roghnaithe agus ní féidir iad a aischur."
+                      },
+    "saveButton":  {
+                       "message":  "Sábháil"
+                   },
+    "runButton":  {
+                      "message":  "Cartlann anois"
+                  },
+    "exclusionsTitle":  {
+                            "message":  "Eisiaimh chartlannaithe:"
+                        },
+    "exclusionsText":  {
+                           "message":  "Cartlann agus a fofhillteáin, Bruscar, Dramhaíl, Dréachtaí, Teimpléid agus Bosca Amach. Ní dhéantar Turscar agus Bruscar a ghlanadh ach amháin nuair atá an rogha thuas cumasaithe."
+                       },
+    "invalidCustomDays":  {
+                              "message":  "Cuir isteach luach saincheaptha 1 lá ar a laghad."
+                          },
+    "noAccounts":  {
+                       "message":  "Níl cuntais ríomhphoist ar fáil."
+                   },
+    "settingsSaved":  {
+                          "message":  "Socruithe sábháilte."
+                      },
+    "archivingStatus":  {
+                            "message":  "Seanteachtaireachtaí a chur i gcartlannâ€¦ Coinnigh Thunderbird ar oscailt."
+                        },
+    "selectAccountError":  {
+                               "message":  "Roghnaigh cuntas amháin ar a laghad."
+                           },
+    "lastRunStatus":  {
+                          "message":  "An rith dheireanach: $1 â€” $2 sa chartlann, $3 scriosta."
+                      },
+    "runResult":  {
+                      "message":  "$1 teachtaireachtaí sa chartlann, $2 scriosta go buan."
+                  },
+    "folderErrors":  {
+                         "message":  "$1 Níorbh fhéidir fillteáin a phróiseáil."
+                     }
+}
